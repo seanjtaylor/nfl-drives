@@ -1,0 +1,3121 @@
+game_id,score1,score2,team1,team2,week,year
+220905019,16,13,San Francisco,NY Giants,1,2002
+220908002,37,31,NY Jets,Buffalo,1,2002
+220908003,27,23,Chicago,Minnesota,1,2002
+220908004,34,6,San Diego,Cincinnati,1,2002
+220908005,40,39,Kansas City,Cleveland,1,2002
+220908009,37,34,Green Bay,Atlanta,1,2002
+220908010,27,24,Tennessee,Philadelphia,1,2002
+220908015,49,21,Miami,Detroit,1,2002
+220908028,31,23,Washington,Arizona,1,2002
+220908029,10,7,Carolina,Baltimore,1,2002
+220908030,28,25,Indianapolis,Jacksonville,1,2002
+220908007,23,16,Denver,St. Louis,1,2002
+220908013,31,17,Oakland,Seattle,1,2002
+220908027,26,20,New Orleans,Tampa Bay,1,2002
+220908034,19,10,Houston,Dallas,1,2002
+220909017,30,14,New England,Pittsburgh,1,2002
+221110009,40,14,Green Bay,Detroit,10,2002
+221110010,17,10,Tennessee,Houston,10,2002
+221110014,28,24,St. Louis,San Diego,10,2002
+221110016,27,20,NY Giants,Minnesota,10,2002
+221110021,35,13,Indianapolis,Philadelphia,10,2002
+221110023,34,34,Pittsburgh,Atlanta,10,2002
+221110029,34,24,New Orleans,Carolina,10,2002
+221110033,38,27,Baltimore,Cincinnati,10,2002
+221110022,27,6,Seattle,Arizona,10,2002
+221110030,26,7,Jacksonville,Washington,10,2002
+221110003,33,30,New England,Chicago,10,2002
+221110025,17,13,San Francisco,Kansas City,10,2002
+221110020,13,10,NY Jets,Miami,10,2002
+221111007,34,10,Oakland,Denver,10,2002
+221117001,24,17,Atlanta,New Orleans,11,2002
+221117004,27,20,Cleveland,Cincinnati,11,2002
+221117010,31,23,Tennessee,Pittsburgh,11,2002
+221117011,20,3,Indianapolis,Dallas,11,2002
+221117012,17,16,Kansas City,Buffalo,11,2002
+221117016,31,21,Minnesota,Green Bay,11,2002
+221117019,19,17,NY Giants,Washington,11,2002
+221117021,38,14,Philadelphia,Arizona,11,2002
+221117034,24,21,Jacksonville,Houston,11,2002
+221117024,20,17,San Diego,San Francisco,11,2002
+221117027,23,10,Tampa Bay,Carolina,11,2002
+221117008,31,14,NY Jets,Detroit,11,2002
+221117015,26,7,Miami,Baltimore,11,2002
+221117026,31,9,Denver,Seattle,11,2002
+221117013,27,20,Oakland,New England,11,2002
+221118014,21,16,St. Louis,Chicago,11,2002
+221124003,20,17,Chicago,Detroit,12,2002
+221124006,21,19,Dallas,Jacksonville,12,2002
+221124015,30,3,Miami,San Diego,12,2002
+221124017,24,17,New England,Minnesota,12,2002
+221124018,24,15,Cleveland,New Orleans,12,2002
+221124020,31,13,NY Jets,Buffalo,12,2002
+221124023,29,21,Pittsburgh,Cincinnati,12,2002
+221124028,20,17,Washington,St. Louis,12,2002
+221124029,41,0,Atlanta,Carolina,12,2002
+221124033,13,12,Baltimore,Tennessee,12,2002
+221124022,41,20,Oakland,Arizona,12,2002
+221124026,39,32,Seattle,Kansas City,12,2002
+221124027,21,7,Tampa Bay,Green Bay,12,2002
+221124034,16,14,Houston,NY Giants,12,2002
+221124007,23,20,Indianapolis,Denver,12,2002
+221125025,38,17,Philadelphia,San Francisco,12,2002
+221128008,20,12,New England,Detroit,13,2002
+221128006,27,20,Dallas,Washington,13,2002
+221201002,38,21,Buffalo,Miami,13,2002
+221201004,27,23,Baltimore,Cincinnati,13,2002
+221201005,13,6,Carolina,Cleveland,13,2002
+221201009,30,20,Green Bay,Chicago,13,2002
+221201012,49,0,Kansas City,Arizona,13,2002
+221201016,30,24,Atlanta,Minnesota,13,2002
+221201019,32,29,Tennessee,NY Giants,13,2002
+221201030,25,23,Pittsburgh,Jacksonville,13,2002
+221201011,19,3,Indianapolis,Houston,13,2002
+221201024,30,27,San Diego,Denver,13,2002
+221201021,10,3,Philadelphia,St. Louis,13,2002
+221201025,31,24,San Francisco,Seattle,13,2002
+221201018,23,20,New Orleans,Tampa Bay,13,2002
+221202013,26,20,Oakland,NY Jets,13,2002
+221208006,31,27,San Francisco,Dallas,14,2002
+221208010,27,17,Tennessee,Indianapolis,14,2002
+221208012,49,10,Kansas City,St. Louis,14,2002
+221208017,27,17,New England,Buffalo,14,2002
+221208023,24,6,Houston,Pittsburgh,14,2002
+221208027,34,10,Tampa Bay,Atlanta,14,2002
+221208028,27,21,NY Giants,Washington,14,2002
+221208029,52,31,Carolina,Cincinnati,14,2002
+221208030,21,20,Cleveland,Jacksonville,14,2002
+221208022,23,20,Arizona,Detroit,14,2002
+221208026,27,20,Philadelphia,Seattle,14,2002
+221208033,37,25,New Orleans,Baltimore,14,2002
+221208020,19,13,NY Jets,Denver,14,2002
+221208024,27,7,Oakland,San Diego,14,2002
+221208009,26,22,Green Bay,Minnesota,14,2002
+221209015,27,9,Miami,Chicago,14,2002
+221215001,30,24,Seattle,Atlanta,15,2002
+221215002,20,13,Buffalo,San Diego,15,2002
+221215003,20,13,Chicago,NY Jets,15,2002
+221215004,29,15,Jacksonville,Cincinnati,15,2002
+221215005,28,23,Indianapolis,Cleveland,15,2002
+221215008,23,20,Tampa Bay,Detroit,15,2002
+221215015,23,17,Miami,Oakland,15,2002
+221215018,32,31,Minnesota,New Orleans,15,2002
+221215021,34,21,Philadelphia,Washington,15,2002
+221215023,30,14,Pittsburgh,Carolina,15,2002
+221215034,23,19,Baltimore,Houston,15,2002
+221215007,31,24,Denver,Kansas City,15,2002
+221215019,37,7,NY Giants,Dallas,15,2002
+221215025,20,14,Green Bay,San Francisco,15,2002
+221215014,30,28,St. Louis,Arizona,15,2002
+221216010,24,7,Tennessee,New England,15,2002
+221221016,20,17,Minnesota,Miami,16,2002
+221221022,17,14,San Francisco,Arizona,16,2002
+221221006,27,3,Philadelphia,Dallas,16,2002
+221222001,36,15,Atlanta,Detroit,16,2002
+221222004,20,13,Cincinnati,New Orleans,16,2002
+221222009,10,0,Green Bay,Buffalo,16,2002
+221222011,44,27,NY Giants,Indianapolis,16,2002
+221222012,24,22,Kansas City,San Diego,16,2002
+221222028,26,10,Washington,Houston,16,2002
+221222029,24,14,Carolina,Chicago,16,2002
+221222030,28,10,Tennessee,Jacksonville,16,2002
+221222026,30,10,Seattle,St. Louis,16,2002
+221222013,28,16,Oakland,Denver,16,2002
+221222033,14,13,Cleveland,Baltimore,16,2002
+221222017,30,17,NY Jets,New England,16,2002
+221223027,17,7,Pittsburgh,Tampa Bay,16,2002
+221228019,10,7,NY Giants,Philadelphia,17,2002
+221228013,24,0,Oakland,Kansas City,17,2002
+221229002,27,9,Buffalo,Cincinnati,17,2002
+221229005,24,16,Cleveland,Atlanta,17,2002
+221229008,38,36,Minnesota,Detroit,17,2002
+221229017,27,24,New England,Miami,17,2002
+221229018,10,6,Carolina,New Orleans,17,2002
+221229023,34,31,Pittsburgh,Baltimore,17,2002
+221229028,20,14,Washington,Dallas,17,2002
+221229034,13,3,Tennessee,Houston,17,2002
+221229011,20,13,Indianapolis,Jacksonville,17,2002
+221229007,37,7,Denver,Arizona,17,2002
+221229020,42,17,NY Jets,Green Bay,17,2002
+221229024,31,28,Seattle,San Diego,17,2002
+221229003,15,0,Tampa Bay,Chicago,17,2002
+221230014,31,20,St. Louis,San Francisco,17,2002
+220915001,14,13,Chicago,Atlanta,2,2002
+220915005,20,7,Cleveland,Cincinnati,2,2002
+220915006,21,13,Dallas,Tennessee,2,2002
+220915011,21,13,Miami,Indianapolis,2,2002
+220915012,23,16,Jacksonville,Kansas City,2,2002
+220915018,35,20,New Orleans,Green Bay,2,2002
+220915020,44,7,New England,NY Jets,2,2002
+220915029,31,7,Carolina,Detroit,2,2002
+220915033,25,0,Tampa Bay,Baltimore,2,2002
+220915014,26,21,NY Giants,St. Louis,2,2002
+220915026,24,13,Arizona,Seattle,2,2002
+220915016,45,39,Buffalo,Minnesota,2,2002
+220915024,24,3,San Diego,Houston,2,2002
+220915025,24,14,Denver,San Francisco,2,2002
+220915023,30,17,Oakland,Pittsburgh,2,2002
+220916028,37,7,Philadelphia,Washington,2,2002
+220922003,29,23,New Orleans,Chicago,3,2002
+220922010,31,28,Cleveland,Tennessee,3,2002
+220922015,30,3,Miami,NY Jets,3,2002
+220922016,21,14,Carolina,Minnesota,3,2002
+220922017,41,38,New England,Kansas City,3,2002
+220922021,44,13,Philadelphia,Dallas,3,2002
+220922034,23,3,Indianapolis,Houston,3,2002
+220922007,28,23,Denver,Buffalo,3,2002
+220922022,23,15,San Diego,Arizona,3,2002
+220922008,37,31,Green Bay,Detroit,3,2002
+220922019,9,6,NY Giants,Seattle,3,2002
+220922025,20,10,San Francisco,Washington,3,2002
+220922001,30,3,Atlanta,Cincinnati,3,2002
+220923027,26,14,Tampa Bay,St. Louis,3,2002
+220929002,33,27,Buffalo,Chicago,4,2002
+220929008,26,21,Detroit,New Orleans,4,2002
+220929009,17,14,Green Bay,Carolina,4,2002
+220929012,48,30,Kansas City,Miami,4,2002
+220929014,13,10,Dallas,St. Louis,4,2002
+220929021,35,17,Philadelphia,Houston,4,2002
+220929023,16,13,Pittsburgh,Cleveland,4,2002
+220929030,28,3,Jacksonville,NY Jets,4,2002
+220929004,35,7,Tampa Bay,Cincinnati,4,2002
+220929022,21,7,Arizona,NY Giants,4,2002
+220929013,52,25,Oakland,Tennessee,4,2002
+220929024,21,14,San Diego,New England,4,2002
+220929026,48,23,Seattle,Minnesota,4,2002
+220930033,34,23,Baltimore,Denver,4,2002
+221006001,20,6,Tampa Bay,Atlanta,5,2002
+221006002,49,31,Oakland,Buffalo,5,2002
+221006006,21,17,NY Giants,Dallas,5,2002
+221006010,31,14,Washington,Tennessee,5,2002
+221006011,28,21,Indianapolis,Cincinnati,5,2002
+221006015,26,13,Miami,New England,5,2002
+221006018,32,29,New Orleans,Pittsburgh,5,2002
+221006029,16,13,Arizona,Carolina,5,2002
+221006007,26,9,Denver,San Diego,5,2002
+221006020,29,25,Kansas City,NY Jets,5,2002
+221006025,37,13,San Francisco,St. Louis,5,2002
+221006030,28,25,Jacksonville,Philadelphia,5,2002
+221006005,26,21,Baltimore,Cleveland,5,2002
+221007003,34,21,Green Bay,Chicago,5,2002
+221013004,34,7,Pittsburgh,Cincinnati,6,2002
+221013006,14,13,Dallas,Carolina,6,2002
+221013011,22,20,Indianapolis,Baltimore,6,2002
+221013016,31,24,Minnesota,Detroit,6,2002
+221013017,28,10,Green Bay,New England,6,2002
+221013019,17,10,Atlanta,NY Giants,6,2002
+221013027,17,3,Tampa Bay,Cleveland,6,2002
+221013028,43,27,New Orleans,Washington,6,2002
+221013034,31,24,Buffalo,Houston,6,2002
+221013010,23,14,Tennessee,Jacksonville,6,2002
+221013014,28,13,St. Louis,Oakland,6,2002
+221013024,35,34,San Diego,Kansas City,6,2002
+221013007,24,22,Miami,Denver,6,2002
+221014026,28,21,San Francisco,Seattle,6,2002
+221020001,30,0,Atlanta,Carolina,7,2002
+221020008,23,20,Detroit,Chicago,7,2002
+221020012,37,34,Denver,Kansas City,7,2002
+221020014,37,20,St. Louis,Seattle,7,2002
+221020015,23,10,Buffalo,Miami,7,2002
+221020018,35,27,New Orleans,San Francisco,7,2002
+221020020,20,7,NY Jets,Minnesota,7,2002
+221020033,17,10,Baltimore,Jacksonville,7,2002
+221020005,34,17,Cleveland,Houston,7,2002
+221020013,27,21,San Diego,Oakland,7,2002
+221020009,30,9,Green Bay,Washington,7,2002
+221020021,20,10,Philadelphia,Tampa Bay,7,2002
+221020022,9,6,Arizona,Dallas,7,2002
+221021023,28,10,Pittsburgh,Indianapolis,7,2002
+221027002,24,17,Buffalo,Detroit,8,2002
+221027004,30,24,Tennessee,Cincinnati,8,2002
+221027006,17,14,Seattle,Dallas,8,2002
+221027012,20,10,Kansas City,Oakland,8,2002
+221027016,25,7,Minnesota,Chicago,8,2002
+221027018,37,35,Atlanta,New Orleans,8,2002
+221027020,24,21,Cleveland,NY Jets,8,2002
+221027029,12,9,Tampa Bay,Carolina,8,2002
+221027033,31,18,Pittsburgh,Baltimore,8,2002
+221027025,38,28,San Francisco,Arizona,8,2002
+221027017,24,16,Denver,New England,8,2002
+221027030,21,19,Houston,Jacksonville,8,2002
+221027028,26,21,Washington,Indianapolis,8,2002
+221028021,17,3,Philadelphia,NY Giants,8,2002
+221103001,20,17,Atlanta,Baltimore,9,2002
+221103002,38,7,New England,Buffalo,9,2002
+221103003,19,13,Philadelphia,Chicago,9,2002
+221103005,23,20,Pittsburgh,Cleveland,9,2002
+221103008,9,7,Detroit,Dallas,9,2002
+221103011,23,15,Tennessee,Indianapolis,9,2002
+221103027,38,24,Tampa Bay,Minnesota,9,2002
+221103034,38,3,Cincinnati,Houston,9,2002
+221103024,44,13,NY Jets,San Diego,9,2002
+221103013,23,20,San Francisco,Oakland,9,2002
+221103022,27,14,St. Louis,Arizona,9,2002
+221103026,14,3,Washington,Seattle,9,2002
+221103019,24,17,NY Giants,Jacksonville,9,2002
+221104009,24,10,Green Bay,Miami,9,2002
+230904028,16,13,Washington,NY Jets,1,2003
+230907002,31,0,Buffalo,New England,1,2003
+230907004,30,10,Denver,Cincinnati,1,2003
+230907005,9,6,Indianapolis,Cleveland,1,2003
+230907008,42,24,Detroit,Arizona,1,2003
+230907009,30,25,Minnesota,Green Bay,1,2003
+230907012,27,14,Kansas City,San Diego,1,2003
+230907015,21,20,Houston,Miami,1,2003
+230907019,23,13,NY Giants,St. Louis,1,2003
+230907023,34,15,Pittsburgh,Baltimore,1,2003
+230907029,24,23,Carolina,Jacksonville,1,2003
+230907006,27,13,Atlanta,Dallas,1,2003
+230907025,49,7,San Francisco,Chicago,1,2003
+230907026,27,10,Seattle,New Orleans,1,2003
+230907010,25,20,Tennessee,Oakland,1,2003
+230908021,17,0,Tampa Bay,Philadelphia,1,2003
+231109004,34,27,Cincinnati,Houston,10,2003
+231109008,12,10,Detroit,Chicago,10,2003
+231109010,31,7,Tennessee,Miami,10,2003
+231109012,41,20,Kansas City,Cleveland,10,2003
+231109019,27,7,Atlanta,NY Giants,10,2003
+231109023,28,15,Pittsburgh,Arizona,10,2003
+231109028,27,20,Washington,Seattle,10,2003
+231109029,27,24,Carolina,Tampa Bay,10,2003
+231109030,28,23,Jacksonville,Indianapolis,10,2003
+231109024,42,28,San Diego,Minnesota,10,2003
+231109006,10,6,Dallas,Buffalo,10,2003
+231109013,27,24,NY Jets,Oakland,10,2003
+231109014,33,22,St. Louis,Baltimore,10,2003
+231110009,17,14,Philadelphia,Green Bay,10,2003
+231116002,12,10,Houston,Buffalo,11,2003
+231116003,23,21,St. Louis,Chicago,11,2003
+231116004,24,19,Cincinnati,Kansas City,11,2003
+231116005,44,6,Cleveland,Arizona,11,2003
+231116010,10,3,Tennessee,Jacksonville,11,2003
+231116015,9,6,Miami,Baltimore,11,2003
+231116018,23,20,New Orleans,Atlanta,11,2003
+231116021,28,10,Philadelphia,NY Giants,11,2003
+231116029,20,17,Carolina,Washington,11,2003
+231116007,37,8,Denver,San Diego,11,2003
+231116011,38,31,Indianapolis,NY Jets,11,2003
+231116013,28,18,Oakland,Minnesota,11,2003
+231116026,35,14,Seattle,Detroit,11,2003
+231116027,20,13,Green Bay,Tampa Bay,11,2003
+231116017,12,0,New England,Dallas,11,2003
+231117025,30,14,San Francisco,Pittsburgh,11,2003
+231123002,17,14,Indianapolis,Buffalo,12,2003
+231123005,13,6,Pittsburgh,Cleveland,12,2003
+231123006,24,20,Dallas,Carolina,12,2003
+231123009,20,10,Green Bay,San Francisco,12,2003
+231123016,24,14,Minnesota,Detroit,12,2003
+231123020,13,10,NY Jets,Jacksonville,12,2003
+231123021,33,20,Philadelphia,New Orleans,12,2003
+231123033,44,41,Baltimore,Seattle,12,2003
+231123034,23,20,New England,Houston,12,2003
+231123007,19,10,Chicago,Denver,12,2003
+231123022,30,27,St. Louis,Arizona,12,2003
+231123001,38,31,Tennessee,Atlanta,12,2003
+231123012,27,24,Kansas City,Oakland,12,2003
+231123024,34,27,Cincinnati,San Diego,12,2003
+231123015,24,23,Miami,Washington,12,2003
+231124027,19,13,Tampa Bay,NY Giants,12,2003
+231127008,22,14,Detroit,Green Bay,13,2003
+231127006,40,21,Miami,Dallas,13,2003
+231130003,28,3,Chicago,Arizona,13,2003
+231130011,38,34,New England,Indianapolis,13,2003
+231130014,48,17,St. Louis,Minnesota,13,2003
+231130019,24,7,Buffalo,NY Giants,13,2003
+231130023,24,20,Cincinnati,Pittsburgh,13,2003
+231130029,25,16,Philadelphia,Carolina,13,2003
+231130033,44,6,Baltimore,San Francisco,13,2003
+231130034,17,13,Houston,Atlanta,13,2003
+231130028,24,20,New Orleans,Washington,13,2003
+231130013,22,8,Denver,Oakland,13,2003
+231130024,28,24,Kansas City,San Diego,13,2003
+231130026,34,7,Seattle,Cleveland,13,2003
+231130030,17,10,Jacksonville,Tampa Bay,13,2003
+231201020,24,17,NY Jets,Tennessee,13,2003
+231207008,14,7,San Diego,Detroit,14,2003
+231207009,34,21,Green Bay,Chicago,14,2003
+231207010,29,27,Indianapolis,Tennessee,14,2003
+231207016,34,7,Minnesota,Seattle,14,2003
+231207018,14,7,Tampa Bay,New Orleans,14,2003
+231207019,20,7,Washington,NY Giants,14,2003
+231207021,36,10,Philadelphia,Dallas,14,2003
+231207023,27,7,Pittsburgh,Oakland,14,2003
+231207030,27,0,Jacksonville,Houston,14,2003
+231207033,31,13,Baltimore,Cincinnati,14,2003
+231207025,50,14,San Francisco,Arizona,14,2003
+231207002,17,6,Buffalo,NY Jets,14,2003
+231207007,45,27,Denver,Kansas City,14,2003
+231207017,12,0,New England,Miami,14,2003
+231207001,20,14,Atlanta,Carolina,14,2003
+231208005,26,20,St. Louis,Cleveland,14,2003
+231214003,13,10,Chicago,Minnesota,15,2003
+231214004,41,38,Cincinnati,San Francisco,15,2003
+231214010,28,26,Tennessee,Buffalo,15,2003
+231214011,38,7,Indianapolis,Atlanta,15,2003
+231214012,45,17,Kansas City,Detroit,15,2003
+231214014,27,22,St. Louis,Seattle,15,2003
+231214017,27,13,New England,Jacksonville,15,2003
+231214020,6,0,NY Jets,Pittsburgh,15,2003
+231214027,16,3,Tampa Bay,Houston,15,2003
+231214007,23,20,Denver,Cleveland,15,2003
+231214013,20,12,Oakland,Baltimore,15,2003
+231214022,20,17,Carolina,Arizona,15,2003
+231214024,38,21,Green Bay,San Diego,15,2003
+231214028,27,0,Dallas,Washington,15,2003
+231214018,45,7,New Orleans,NY Giants,15,2003
+231215015,34,27,Philadelphia,Miami,15,2003
+231220027,30,28,Atlanta,Tampa Bay,16,2003
+231220016,45,20,Minnesota,Kansas City,16,2003
+231220020,21,16,New England,NY Jets,16,2003
+231221002,20,3,Miami,Buffalo,16,2003
+231221003,27,24,Chicago,Washington,16,2003
+231221005,35,0,Baltimore,Cleveland,16,2003
+231221006,19,3,Dallas,NY Giants,16,2003
+231221014,27,10,St. Louis,Cincinnati,16,2003
+231221029,20,14,Carolina,Detroit,16,2003
+231221030,20,19,Jacksonville,New Orleans,16,2003
+231221034,27,24,Tennessee,Houston,16,2003
+231221023,40,24,Pittsburgh,San Diego,16,2003
+231221021,31,28,San Francisco,Philadelphia,16,2003
+231221026,28,10,Seattle,Arizona,16,2003
+231221011,31,17,Denver,Indianapolis,16,2003
+231222013,41,7,Green Bay,Oakland,16,2003
+231227017,31,0,New England,Buffalo,17,2003
+231227025,24,17,Seattle,San Francisco,17,2003
+231227028,31,7,Philadelphia,Washington,17,2003
+231228001,21,14,Atlanta,Jacksonville,17,2003
+231228004,22,14,Cleveland,Cincinnati,17,2003
+231228008,30,20,Detroit,St. Louis,17,2003
+231228010,33,13,Tennessee,Tampa Bay,17,2003
+231228012,31,3,Kansas City,Chicago,17,2003
+231228015,23,21,Miami,NY Jets,17,2003
+231228018,13,7,New Orleans,Dallas,17,2003
+231228034,20,17,Indianapolis,Houston,17,2003
+231228019,37,24,Carolina,NY Giants,17,2003
+231228022,18,17,Arizona,Minnesota,17,2003
+231228009,31,3,Green Bay,Denver,17,2003
+231228024,21,14,San Diego,Oakland,17,2003
+231228033,13,10,Baltimore,Pittsburgh,17,2003
+230914001,33,31,Washington,Atlanta,2,2003
+230914009,31,6,Green Bay,Detroit,2,2003
+230914011,33,7,Indianapolis,Tennessee,2,2003
+230914012,41,20,Kansas City,Pittsburgh,2,2003
+230914014,27,24,St. Louis,San Francisco,2,2003
+230914018,31,10,New Orleans,Houston,2,2003
+230914020,21,10,Miami,NY Jets,2,2003
+230914030,38,17,Buffalo,Jacksonville,2,2003
+230914033,33,13,Baltimore,Cleveland,2,2003
+230914022,38,0,Seattle,Arizona,2,2003
+230914027,12,9,Carolina,Tampa Bay,2,2003
+230914013,23,20,Oakland,Cincinnati,2,2003
+230914021,31,10,New England,Philadelphia,2,2003
+230914024,37,13,Denver,San Diego,2,2003
+230914016,24,13,Minnesota,Chicago,2,2003
+230915019,7,7,NY Giants,Dallas,2,2003
+230921001,31,10,Tampa Bay,Atlanta,3,2003
+230921004,17,10,Pittsburgh,Cincinnati,3,2003
+230921008,23,13,Minnesota,Detroit,3,2003
+230921010,27,12,Tennessee,New Orleans,3,2003
+230921011,23,13,Indianapolis,Jacksonville,3,2003
+230921017,23,16,New England,NY Jets,3,2003
+230921034,42,14,Kansas City,Houston,3,2003
+230921022,20,13,Arizona,Green Bay,3,2003
+230921026,24,23,Seattle,St. Louis,3,2003
+230921028,24,21,NY Giants,Washington,3,2003
+230921024,24,10,Baltimore,San Diego,3,2003
+230921025,13,12,Cleveland,San Francisco,3,2003
+230921015,17,7,Miami,Buffalo,3,2003
+230922007,31,10,Denver,Oakland,3,2003
+230928002,23,13,Philadelphia,Buffalo,4,2003
+230928005,21,14,Cincinnati,Cleveland,4,2003
+230928014,37,13,St. Louis,Arizona,4,2003
+230928016,35,7,Minnesota,San Francisco,4,2003
+230928023,30,13,Tennessee,Pittsburgh,4,2003
+230928028,20,17,Washington,New England,4,2003
+230928034,24,20,Houston,Jacksonville,4,2003
+230928013,34,31,Oakland,San Diego,4,2003
+230928033,17,10,Kansas City,Baltimore,4,2003
+230928007,20,16,Denver,Detroit,4,2003
+230928020,17,6,Dallas,NY Jets,4,2003
+230928029,23,3,Carolina,Atlanta,4,2003
+230928018,55,21,Indianapolis,New Orleans,4,2003
+230929003,38,23,Green Bay,Chicago,4,2003
+231005001,39,26,Minnesota,Atlanta,5,2003
+231005002,22,16,Buffalo,Cincinnati,5,2003
+231005003,24,21,Chicago,Oakland,5,2003
+231005006,24,7,Dallas,Arizona,5,2003
+231005009,35,13,Green Bay,Seattle,5,2003
+231005012,24,23,Kansas City,Denver,5,2003
+231005017,38,30,New England,Tennessee,5,2003
+231005019,23,10,Miami,NY Giants,5,2003
+231005029,19,13,Carolina,New Orleans,5,2003
+231005030,27,21,Jacksonville,San Diego,5,2003
+231005021,27,25,Philadelphia,Washington,5,2003
+231005025,24,17,San Francisco,Detroit,5,2003
+231005023,33,13,Cleveland,Pittsburgh,5,2003
+231006027,38,35,Indianapolis,Tampa Bay,5,2003
+231012005,13,7,Cleveland,Oakland,6,2003
+231012006,23,21,Dallas,Philadelphia,6,2003
+231012009,40,34,Kansas City,Green Bay,6,2003
+231012010,38,17,Tennessee,Houston,6,2003
+231012011,23,20,Carolina,Indianapolis,6,2003
+231012017,17,6,New England,NY Giants,6,2003
+231012018,20,13,New Orleans,Chicago,6,2003
+231012028,35,13,Tampa Bay,Washington,6,2003
+231012030,24,10,Miami,Jacksonville,6,2003
+231012007,17,14,Denver,Pittsburgh,6,2003
+231012020,30,3,NY Jets,Buffalo,6,2003
+231012022,26,18,Baltimore,Arizona,6,2003
+231012026,20,19,Seattle,San Francisco,6,2003
+231013014,36,0,St. Louis,Atlanta,6,2003
+231019001,45,17,New Orleans,Atlanta,7,2003
+231019004,34,26,Cincinnati,Baltimore,7,2003
+231019005,26,20,San Diego,Cleveland,7,2003
+231019008,38,7,Dallas,Detroit,7,2003
+231019014,34,24,St. Louis,Green Bay,7,2003
+231019015,19,13,New England,Miami,7,2003
+231019016,28,20,Minnesota,Denver,7,2003
+231019019,14,10,Philadelphia,NY Giants,7,2003
+231019029,37,17,Tennessee,Carolina,7,2003
+231019034,19,14,NY Jets,Houston,7,2003
+231019002,24,7,Buffalo,Washington,7,2003
+231019025,24,7,San Francisco,Tampa Bay,7,2003
+231019026,24,17,Seattle,Chicago,7,2003
+231020013,17,10,Kansas City,Oakland,7,2003
+231026003,24,16,Chicago,Detroit,8,2003
+231026004,27,24,Cincinnati,Seattle,8,2003
+231026016,29,17,NY Giants,Minnesota,8,2003
+231026017,9,3,New England,Cleveland,8,2003
+231026018,23,20,Carolina,New Orleans,8,2003
+231026023,33,21,St. Louis,Pittsburgh,8,2003
+231026027,16,0,Tampa Bay,Dallas,8,2003
+231026030,30,17,Tennessee,Jacksonville,8,2003
+231026033,26,6,Baltimore,Denver,8,2003
+231026022,16,13,Arizona,San Francisco,8,2003
+231026011,30,21,Indianapolis,Houston,8,2003
+231026021,24,17,Philadelphia,NY Jets,8,2003
+231026012,38,5,Kansas City,Buffalo,8,2003
+231027024,26,10,Miami,San Diego,8,2003
+231102003,20,7,Chicago,San Diego,9,2003
+231102008,23,13,Detroit,Oakland,9,2003
+231102015,23,17,Indianapolis,Miami,9,2003
+231102020,31,28,NY Giants,NY Jets,9,2003
+231102027,17,14,New Orleans,Tampa Bay,9,2003
+231102033,24,17,Baltimore,Jacksonville,9,2003
+231102034,14,10,Houston,Carolina,9,2003
+231102022,17,14,Arizona,Cincinnati,9,2003
+231102026,23,16,Seattle,Pittsburgh,9,2003
+231102001,23,16,Philadelphia,Atlanta,9,2003
+231102006,21,14,Dallas,Washington,9,2003
+231102025,30,10,San Francisco,St. Louis,9,2003
+231102016,30,27,Green Bay,Minnesota,9,2003
+231103007,30,26,New England,Denver,9,2003
+240909017,27,24,New England,Indianapolis,1,2004
+240911015,17,7,Tennessee,Miami,1,2004
+240912002,13,10,Jacksonville,Buffalo,1,2004
+240912003,20,16,Detroit,Chicago,1,2004
+240912005,20,3,Cleveland,Baltimore,1,2004
+240912014,17,10,St. Louis,Arizona,1,2004
+240912018,21,7,Seattle,New Orleans,1,2004
+240912020,31,24,NY Jets,Cincinnati,1,2004
+240912023,24,21,Pittsburgh,Oakland,1,2004
+240912028,16,10,Washington,Tampa Bay,1,2004
+240912034,27,20,San Diego,Houston,1,2004
+240912016,35,17,Minnesota,Dallas,1,2004
+240912021,31,17,Philadelphia,NY Giants,1,2004
+240912025,21,19,Atlanta,San Francisco,1,2004
+240912007,34,24,Denver,Kansas City,1,2004
+240913029,24,14,Green Bay,Carolina,1,2004
+241114001,24,14,Atlanta,Tampa Bay,10,2004
+241114005,24,10,Pittsburgh,Cleveland,10,2004
+241114010,19,17,Chicago,Tennessee,10,2004
+241114011,49,14,Indianapolis,Houston,10,2004
+241114014,23,12,St. Louis,Seattle,10,2004
+241114018,27,20,New Orleans,Kansas City,10,2004
+241114020,20,17,Baltimore,NY Jets,10,2004
+241114030,23,17,Jacksonville,Detroit,10,2004
+241114028,17,10,Cincinnati,Washington,10,2004
+241114009,34,31,Green Bay,Minnesota,10,2004
+241114022,17,14,Arizona,NY Giants,10,2004
+241114025,37,27,Carolina,San Francisco,10,2004
+241114017,29,6,New England,Buffalo,10,2004
+241115006,49,21,Philadelphia,Dallas,10,2004
+241121002,37,17,Buffalo,St. Louis,11,2004
+241121003,41,10,Indianapolis,Chicago,11,2004
+241121004,19,14,Pittsburgh,Cincinnati,11,2004
+241121005,10,7,NY Jets,Cleveland,11,2004
+241121016,22,19,Minnesota,Detroit,11,2004
+241121018,34,13,Denver,New Orleans,11,2004
+241121027,35,3,Tampa Bay,San Francisco,11,2004
+241121029,35,10,Carolina,Arizona,11,2004
+241121030,18,15,Tennessee,Jacksonville,11,2004
+241121033,30,10,Baltimore,Dallas,11,2004
+241121013,23,17,San Diego,Oakland,11,2004
+241121026,24,17,Seattle,Miami,11,2004
+241121019,14,10,Atlanta,NY Giants,11,2004
+241121021,28,6,Philadelphia,Washington,11,2004
+241121034,16,13,Green Bay,Houston,11,2004
+241122012,27,19,New England,Kansas City,11,2004
+241125008,41,9,Indianapolis,Detroit,12,2004
+241125006,21,7,Dallas,Chicago,12,2004
+241128004,58,48,Cincinnati,Cleveland,12,2004
+241128012,34,31,San Diego,Kansas City,12,2004
+241128016,27,16,Minnesota,Jacksonville,12,2004
+241128019,27,6,Philadelphia,NY Giants,12,2004
+241128023,16,7,Pittsburgh,Washington,12,2004
+241128029,21,14,Carolina,Tampa Bay,12,2004
+241128034,31,21,Houston,Tennessee,12,2004
+241128001,24,21,Atlanta,New Orleans,12,2004
+241128017,24,3,New England,Baltimore,12,2004
+241128022,13,3,NY Jets,Arizona,12,2004
+241128025,24,17,Miami,San Francisco,12,2004
+241128026,38,9,Buffalo,Seattle,12,2004
+241128007,25,24,Oakland,Denver,12,2004
+241129009,45,17,Green Bay,St. Louis,12,2004
+241205003,24,14,Chicago,Minnesota,13,2004
+241205005,42,15,New England,Cleveland,13,2004
+241205008,26,12,Detroit,Arizona,13,2004
+241205011,51,24,Indianapolis,Tennessee,13,2004
+241205014,16,6,St. Louis,San Francisco,13,2004
+241205015,42,32,Buffalo,Miami,13,2004
+241205018,32,21,Carolina,New Orleans,13,2004
+241205020,29,7,NY Jets,Houston,13,2004
+241205027,27,0,Tampa Bay,Atlanta,13,2004
+241205033,27,26,Cincinnati,Baltimore,13,2004
+241205013,34,27,Kansas City,Oakland,13,2004
+241205024,20,17,San Diego,Denver,13,2004
+241205021,47,17,Philadelphia,Green Bay,13,2004
+241205028,31,7,Washington,NY Giants,13,2004
+241205030,17,16,Pittsburgh,Jacksonville,13,2004
+241206026,43,39,Dallas,Seattle,13,2004
+241212001,35,10,Atlanta,Oakland,14,2004
+241212002,37,7,Buffalo,Cleveland,14,2004
+241212006,27,13,New Orleans,Dallas,14,2004
+241212016,27,23,Seattle,Minnesota,14,2004
+241212017,35,28,New England,Cincinnati,14,2004
+241212030,22,3,Jacksonville,Chicago,14,2004
+241212033,37,14,Baltimore,NY Giants,14,2004
+241212034,23,14,Indianapolis,Houston,14,2004
+241212007,20,17,Denver,Miami,14,2004
+241212023,17,6,Pittsburgh,NY Jets,14,2004
+241212009,16,13,Green Bay,Detroit,14,2004
+241212022,31,28,San Francisco,Arizona,14,2004
+241212024,31,24,San Diego,Tampa Bay,14,2004
+241212029,20,7,Carolina,St. Louis,14,2004
+241212028,17,14,Philadelphia,Washington,14,2004
+241213010,49,38,Kansas City,Tennessee,14,2004
+241218019,33,30,Pittsburgh,NY Giants,15,2004
+241218025,26,16,Washington,San Francisco,15,2004
+241218001,34,31,Atlanta,Carolina,15,2004
+241219003,24,5,Houston,Chicago,15,2004
+241219004,33,17,Buffalo,Cincinnati,15,2004
+241219005,21,0,San Diego,Cleveland,15,2004
+241219008,28,27,Minnesota,Detroit,15,2004
+241219012,45,17,Kansas City,Denver,15,2004
+241219020,37,14,NY Jets,Seattle,15,2004
+241219021,12,7,Philadelphia,Dallas,15,2004
+241219022,31,7,Arizona,St. Louis,15,2004
+241219027,21,17,New Orleans,Tampa Bay,15,2004
+241219009,28,25,Jacksonville,Green Bay,15,2004
+241219013,40,35,Oakland,Tennessee,15,2004
+241219011,20,10,Indianapolis,Baltimore,15,2004
+241220015,29,28,Miami,New England,15,2004
+241224016,34,31,Green Bay,Minnesota,16,2004
+241225012,31,30,Kansas City,Oakland,16,2004
+241225010,37,16,Denver,Tennessee,16,2004
+241226004,23,22,Cincinnati,NY Giants,16,2004
+241226008,19,13,Detroit,Chicago,16,2004
+241226011,34,31,Indianapolis,San Diego,16,2004
+241226018,26,13,New Orleans,Atlanta,16,2004
+241226023,20,7,Pittsburgh,Baltimore,16,2004
+241226030,21,0,Houston,Jacksonville,16,2004
+241226020,23,7,New England,NY Jets,16,2004
+241226025,41,7,Buffalo,San Francisco,16,2004
+241226006,13,10,Dallas,Washington,16,2004
+241226026,24,21,Seattle,Arizona,16,2004
+241226027,37,20,Carolina,Tampa Bay,16,2004
+241226015,10,7,Miami,Cleveland,16,2004
+241227014,20,7,St. Louis,Philadelphia,16,2004
+250102002,29,24,Pittsburgh,Buffalo,17,2004
+250102003,31,14,Green Bay,Chicago,17,2004
+250102010,24,19,Tennessee,Detroit,17,2004
+250102014,32,29,St. Louis,NY Jets,17,2004
+250102017,21,7,New England,San Francisco,17,2004
+250102021,38,10,Cincinnati,Philadelphia,17,2004
+250102028,21,18,Washington,Minnesota,17,2004
+250102029,21,18,New Orleans,Carolina,17,2004
+250102033,30,23,Baltimore,Miami,17,2004
+250102034,22,14,Cleveland,Houston,17,2004
+250102022,12,7,Arizona,Tampa Bay,17,2004
+250102026,28,26,Seattle,Atlanta,17,2004
+250102007,33,14,Denver,Indianapolis,17,2004
+250102013,13,6,Jacksonville,Oakland,17,2004
+250102024,24,17,San Diego,Kansas City,17,2004
+250102019,28,24,NY Giants,Dallas,17,2004
+240919001,34,17,Atlanta,St. Louis,2,2004
+240919008,28,16,Detroit,Houston,2,2004
+240919009,21,10,Chicago,Green Bay,2,2004
+240919010,31,17,Indianapolis,Tennessee,2,2004
+240919012,28,17,Carolina,Kansas City,2,2004
+240919018,30,27,New Orleans,San Francisco,2,2004
+240919019,20,14,NY Giants,Washington,2,2004
+240919030,7,6,Jacksonville,Denver,2,2004
+240919033,30,13,Baltimore,Pittsburgh,2,2004
+240919027,10,6,Seattle,Tampa Bay,2,2004
+240919006,19,12,Dallas,Cleveland,2,2004
+240919013,13,10,Oakland,Buffalo,2,2004
+240919022,23,12,New England,Arizona,2,2004
+240919024,34,28,NY Jets,San Diego,2,2004
+240919004,16,13,Cincinnati,Miami,2,2004
+240920021,27,16,Philadelphia,Minnesota,2,2004
+240926001,6,3,Atlanta,Arizona,3,2004
+240926004,23,9,Baltimore,Cincinnati,3,2004
+240926008,30,13,Philadelphia,Detroit,3,2004
+240926010,15,12,Jacksonville,Tennessee,3,2004
+240926012,24,21,Houston,Kansas City,3,2004
+240926014,28,25,New Orleans,St. Louis,3,2004
+240926016,27,22,Minnesota,Chicago,3,2004
+240926019,27,10,NY Giants,Cleveland,3,2004
+240926007,23,13,Denver,San Diego,3,2004
+240926011,45,31,Indianapolis,Green Bay,3,2004
+240926026,34,0,Seattle,San Francisco,3,2004
+240926013,30,20,Oakland,Tampa Bay,3,2004
+240926015,13,3,Pittsburgh,Miami,3,2004
+240927028,21,18,Dallas,Washington,3,2004
+241003002,31,17,New England,Buffalo,4,2004
+241003003,19,9,Philadelphia,Chicago,4,2004
+241003005,17,13,Cleveland,Washington,4,2004
+241003009,14,7,NY Giants,Green Bay,4,2004
+241003023,28,17,Pittsburgh,Cincinnati,4,2004
+241003030,24,17,Indianapolis,Jacksonville,4,2004
+241003034,30,17,Houston,Oakland,4,2004
+241003022,34,10,Arizona,New Orleans,4,2004
+241003029,27,10,Atlanta,Carolina,4,2004
+241003015,17,9,NY Jets,Miami,4,2004
+241003024,38,17,San Diego,Tennessee,4,2004
+241003027,16,13,Denver,Tampa Bay,4,2004
+241003025,24,14,St. Louis,San Francisco,4,2004
+241004033,27,24,Kansas City,Baltimore,4,2004
+241010001,17,10,Detroit,Atlanta,5,2004
+241010006,26,10,NY Giants,Dallas,5,2004
+241010011,35,14,Indianapolis,Oakland,5,2004
+241010017,24,10,New England,Miami,5,2004
+241010018,20,17,Tampa Bay,New Orleans,5,2004
+241010023,34,23,Pittsburgh,Cleveland,5,2004
+241010034,34,28,Minnesota,Houston,5,2004
+241010020,16,14,NY Jets,Buffalo,5,2004
+241010024,34,21,San Diego,Jacksonville,5,2004
+241010007,20,17,Denver,Carolina,5,2004
+241010025,31,28,San Francisco,Arizona,5,2004
+241010026,33,27,St. Louis,Seattle,5,2004
+241010028,17,10,Baltimore,Washington,5,2004
+241011009,48,27,Tennessee,Green Bay,5,2004
+241017001,21,20,Atlanta,San Diego,6,2004
+241017002,20,13,Buffalo,Miami,6,2004
+241017003,13,10,Washington,Chicago,6,2004
+241017005,34,17,Cleveland,Cincinnati,6,2004
+241017008,38,10,Green Bay,Detroit,6,2004
+241017010,20,10,Houston,Tennessee,6,2004
+241017017,30,20,New England,Seattle,6,2004
+241017020,22,14,NY Jets,San Francisco,6,2004
+241017021,30,8,Philadelphia,Carolina,6,2004
+241017030,22,16,Jacksonville,Kansas City,6,2004
+241017006,24,20,Pittsburgh,Dallas,6,2004
+241017013,31,3,Denver,Oakland,6,2004
+241017018,38,31,Minnesota,New Orleans,6,2004
+241018014,28,21,St. Louis,Tampa Bay,6,2004
+241024005,34,31,Philadelphia,Cleveland,7,2004
+241024011,27,24,Jacksonville,Indianapolis,7,2004
+241024012,56,10,Kansas City,Atlanta,7,2004
+241024015,31,14,Miami,St. Louis,7,2004
+241024016,20,3,Minnesota,Tennessee,7,2004
+241024019,28,13,Detroit,NY Giants,7,2004
+241024027,19,7,Tampa Bay,Chicago,7,2004
+241024029,17,6,San Diego,Carolina,7,2004
+241024033,20,6,Baltimore,Buffalo,7,2004
+241024017,13,7,New England,NY Jets,7,2004
+241024009,41,20,Green Bay,Dallas,7,2004
+241024013,31,26,New Orleans,Oakland,7,2004
+241024022,25,17,Arizona,Seattle,7,2004
+241025004,23,10,Cincinnati,Denver,7,2004
+241031002,38,14,Buffalo,Arizona,8,2004
+241031006,31,21,Dallas,Detroit,8,2004
+241031010,27,20,Tennessee,Cincinnati,8,2004
+241031012,45,35,Kansas City,Indianapolis,8,2004
+241031016,34,13,NY Giants,Minnesota,8,2004
+241031021,15,10,Philadelphia,Baltimore,8,2004
+241031028,28,14,Green Bay,Washington,8,2004
+241031034,20,6,Houston,Jacksonville,8,2004
+241031007,41,28,Atlanta,Denver,8,2004
+241031026,23,17,Seattle,Carolina,8,2004
+241031023,34,20,Pittsburgh,New England,8,2004
+241031024,42,14,San Diego,Oakland,8,2004
+241031003,23,13,Chicago,San Francisco,8,2004
+241101020,41,14,NY Jets,Miami,8,2004
+241107002,22,17,Buffalo,NY Jets,9,2004
+241107004,26,3,Cincinnati,Dallas,9,2004
+241107008,17,10,Washington,Detroit,9,2004
+241107015,24,23,Arizona,Miami,9,2004
+241107023,27,3,Pittsburgh,Philadelphia,9,2004
+241107027,34,31,Tampa Bay,Kansas City,9,2004
+241107029,27,24,Oakland,Carolina,9,2004
+241107019,28,21,Chicago,NY Giants,9,2004
+241107024,43,17,San Diego,New Orleans,9,2004
+241107025,42,27,Seattle,San Francisco,9,2004
+241107007,31,13,Denver,Houston,9,2004
+241107014,40,22,New England,St. Louis,9,2004
+241107033,27,13,Baltimore,Cleveland,9,2004
+241108011,31,28,Indianapolis,Minnesota,9,2004
+250908017,30,20,New England,Oakland,1,2005
+250911002,22,7,Buffalo,Houston,1,2005
+250911005,27,13,Cincinnati,Cleveland,1,2005
+250911012,27,7,Kansas City,NY Jets,1,2005
+250911015,34,10,Miami,Denver,1,2005
+250911016,24,13,Tampa Bay,Minnesota,1,2005
+250911023,34,7,Pittsburgh,Tennessee,1,2005
+250911028,9,7,Washington,Chicago,1,2005
+250911029,23,20,New Orleans,Carolina,1,2005
+250911030,26,14,Jacksonville,Seattle,1,2005
+250911008,17,3,Detroit,Green Bay,1,2005
+250911019,42,19,NY Giants,Arizona,1,2005
+250911024,28,24,Dallas,San Diego,1,2005
+250911025,28,25,San Francisco,St. Louis,1,2005
+250911033,24,7,Indianapolis,Baltimore,1,2005
+250912001,14,10,Atlanta,Philadelphia,1,2005
+251113002,14,3,Buffalo,Kansas City,10,2005
+251113003,17,9,Chicago,San Francisco,10,2005
+251113008,29,21,Detroit,Arizona,10,2005
+251113011,31,17,Indianapolis,Houston,10,2005
+251113015,23,16,New England,Miami,10,2005
+251113019,24,21,Minnesota,NY Giants,10,2005
+251113030,30,3,Jacksonville,Baltimore,10,2005
+251113013,31,17,Denver,Oakland,10,2005
+251113029,30,3,Carolina,NY Jets,10,2005
+251113001,33,25,Green Bay,Atlanta,10,2005
+251113026,31,16,Seattle,St. Louis,10,2005
+251113027,36,35,Tampa Bay,Washington,10,2005
+251113023,34,21,Pittsburgh,Cleveland,10,2005
+251114021,21,20,Dallas,Philadelphia,10,2005
+251120001,30,27,Tampa Bay,Atlanta,11,2005
+251120003,13,3,Chicago,Carolina,11,2005
+251120005,22,0,Cleveland,Miami,11,2005
+251120006,20,7,Dallas,Detroit,11,2005
+251120010,31,28,Jacksonville,Tennessee,11,2005
+251120014,38,28,Arizona,St. Louis,11,2005
+251120017,24,17,New England,New Orleans,11,2005
+251120019,27,17,NY Giants,Philadelphia,11,2005
+251120028,16,13,Oakland,Washington,11,2005
+251120033,16,13,Baltimore,Pittsburgh,11,2005
+251120025,27,25,Seattle,San Francisco,11,2005
+251120004,45,37,Indianapolis,Cincinnati,11,2005
+251120007,27,0,Denver,NY Jets,11,2005
+251120024,48,10,San Diego,Buffalo,11,2005
+251120034,45,17,Kansas City,Houston,11,2005
+251121009,20,17,Minnesota,Green Bay,11,2005
+251124008,27,7,Atlanta,Detroit,12,2005
+251124006,24,21,Denver,Dallas,12,2005
+251127002,13,9,Carolina,Buffalo,12,2005
+251127004,42,29,Cincinnati,Baltimore,12,2005
+251127010,33,22,Tennessee,San Francisco,12,2005
+251127012,26,16,Kansas City,New England,12,2005
+251127016,24,12,Minnesota,Cleveland,12,2005
+251127027,13,10,Chicago,Tampa Bay,12,2005
+251127028,23,17,San Diego,Washington,12,2005
+251127034,33,27,St. Louis,Houston,12,2005
+251127013,33,21,Miami,Oakland,12,2005
+251127022,24,17,Jacksonville,Arizona,12,2005
+251127021,19,14,Philadelphia,Green Bay,12,2005
+251127026,24,21,Seattle,NY Giants,12,2005
+251127020,21,19,New Orleans,NY Jets,12,2005
+251128011,26,7,Indianapolis,Pittsburgh,12,2005
+251204003,19,7,Chicago,Green Bay,13,2005
+251204005,20,14,Jacksonville,Cleveland,13,2005
+251204008,21,16,Minnesota,Detroit,13,2005
+251204011,35,3,Indianapolis,Tennessee,13,2005
+251204015,24,23,Miami,Buffalo,13,2005
+251204018,10,3,Tampa Bay,New Orleans,13,2005
+251204019,17,10,NY Giants,Dallas,13,2005
+251204023,38,31,Cincinnati,Pittsburgh,13,2005
+251204029,24,6,Carolina,Atlanta,13,2005
+251204033,16,15,Baltimore,Houston,13,2005
+251204014,24,9,Washington,St. Louis,13,2005
+251204025,17,10,Arizona,San Francisco,13,2005
+251204012,31,27,Kansas City,Denver,13,2005
+251204017,16,3,New England,NY Jets,13,2005
+251204024,34,10,San Diego,Oakland,13,2005
+251205021,42,0,Seattle,Philadelphia,13,2005
+251211002,35,7,New England,Buffalo,14,2005
+251211004,23,20,Cincinnati,Cleveland,14,2005
+251211010,13,10,Tennessee,Houston,14,2005
+251211016,27,13,Minnesota,St. Louis,14,2005
+251211020,26,10,NY Jets,Oakland,14,2005
+251211023,21,9,Pittsburgh,Chicago,14,2005
+251211029,20,10,Tampa Bay,Carolina,14,2005
+251211030,26,18,Indianapolis,Jacksonville,14,2005
+251211021,26,23,NY Giants,Philadelphia,14,2005
+251211022,17,13,Washington,Arizona,14,2005
+251211026,41,3,Seattle,San Francisco,14,2005
+251211006,31,28,Dallas,Kansas City,14,2005
+251211007,12,10,Denver,Baltimore,14,2005
+251211024,23,21,Miami,San Diego,14,2005
+251211009,16,13,Green Bay,Detroit,14,2005
+251212001,36,17,Atlanta,New Orleans,14,2005
+251217017,28,0,New England,Tampa Bay,15,2005
+251217019,27,17,NY Giants,Kansas City,15,2005
+251217002,28,17,Denver,Buffalo,15,2005
+251218010,28,24,Seattle,Tennessee,15,2005
+251218011,26,17,San Diego,Indianapolis,15,2005
+251218014,17,16,Philadelphia,St. Louis,15,2005
+251218015,24,20,Miami,NY Jets,15,2005
+251218016,18,3,Pittsburgh,Minnesota,15,2005
+251218018,27,10,Carolina,New Orleans,15,2005
+251218030,10,9,Jacksonville,San Francisco,15,2005
+251218034,30,19,Houston,Arizona,15,2005
+251218008,41,17,Cincinnati,Detroit,15,2005
+251218013,9,7,Cleveland,Oakland,15,2005
+251218028,35,7,Washington,Dallas,15,2005
+251218003,16,3,Chicago,Atlanta,15,2005
+251219033,48,3,Baltimore,Green Bay,15,2005
+251224004,37,27,Buffalo,Cincinnati,16,2005
+251224005,41,0,Pittsburgh,Cleveland,16,2005
+251224012,20,7,Kansas City,San Diego,16,2005
+251224014,24,20,San Francisco,St. Louis,16,2005
+251224015,24,10,Miami,Tennessee,16,2005
+251224018,13,12,Detroit,New Orleans,16,2005
+251224027,27,24,Tampa Bay,Atlanta,16,2005
+251224028,35,20,Washington,NY Giants,16,2005
+251224029,24,20,Dallas,Carolina,16,2005
+251224034,38,20,Jacksonville,Houston,16,2005
+251224022,27,21,Arizona,Philadelphia,16,2005
+251224007,22,3,Denver,Oakland,16,2005
+251224026,28,13,Seattle,Indianapolis,16,2005
+251225009,24,17,Chicago,Green Bay,16,2005
+251225033,30,23,Baltimore,Minnesota,16,2005
+251226020,31,21,New England,NY Jets,16,2005
+251231024,23,7,Denver,San Diego,17,2005
+251231013,30,21,NY Giants,Oakland,17,2005
+260101001,44,11,Carolina,Atlanta,17,2005
+260101005,20,16,Cleveland,Baltimore,17,2005
+260101009,23,17,Green Bay,Seattle,17,2005
+260101011,17,13,Indianapolis,Arizona,17,2005
+260101012,37,3,Kansas City,Cincinnati,17,2005
+260101017,28,26,Miami,New England,17,2005
+260101020,30,26,NY Jets,Buffalo,17,2005
+260101023,35,21,Pittsburgh,Detroit,17,2005
+260101027,27,13,Tampa Bay,New Orleans,17,2005
+260101025,20,17,San Francisco,Houston,17,2005
+260101030,40,13,Jacksonville,Tennessee,17,2005
+260101016,34,10,Minnesota,Chicago,17,2005
+260101021,31,20,Washington,Philadelphia,17,2005
+260101006,20,10,St. Louis,Dallas,17,2005
+250918003,38,6,Chicago,Detroit,2,2005
+250918004,37,8,Cincinnati,Minnesota,2,2005
+250918010,25,10,Tennessee,Baltimore,2,2005
+250918011,10,3,Indianapolis,Jacksonville,2,2005
+250918021,42,3,Philadelphia,San Francisco,2,2005
+250918027,19,3,Tampa Bay,Buffalo,2,2005
+250918029,27,17,Carolina,New England,2,2005
+250918034,27,7,Pittsburgh,Houston,2,2005
+250918022,17,12,St. Louis,Arizona,2,2005
+250918026,21,18,Seattle,Atlanta,2,2005
+250918007,20,17,Denver,San Diego,2,2005
+250918009,26,24,Cleveland,Green Bay,2,2005
+250918020,17,7,NY Jets,Miami,2,2005
+250918013,23,17,Kansas City,Oakland,2,2005
+250919018,27,10,NY Giants,New Orleans,2,2005
+250919006,14,13,Washington,Dallas,2,2005
+250925002,24,16,Atlanta,Buffalo,3,2005
+250925003,24,7,Cincinnati,Chicago,3,2005
+250925009,17,16,Tampa Bay,Green Bay,3,2005
+250925011,13,6,Indianapolis,Cleveland,3,2005
+250925014,31,27,St. Louis,Tennessee,3,2005
+250925015,27,24,Miami,Carolina,3,2005
+250925016,33,16,Minnesota,New Orleans,3,2005
+250925020,26,20,Jacksonville,NY Jets,3,2005
+250925021,23,20,Philadelphia,Oakland,3,2005
+250925025,34,31,Dallas,San Francisco,3,2005
+250925026,37,12,Seattle,Arizona,3,2005
+250925023,23,20,New England,Pittsburgh,3,2005
+250925024,45,23,San Diego,NY Giants,3,2005
+250926007,30,10,Denver,Kansas City,3,2005
+251002004,16,10,Cincinnati,Houston,4,2005
+251002010,31,10,Indianapolis,Tennessee,4,2005
+251002017,41,17,San Diego,New England,4,2005
+251002018,19,7,New Orleans,Buffalo,4,2005
+251002019,44,24,NY Giants,St. Louis,4,2005
+251002027,17,13,Tampa Bay,Detroit,4,2005
+251002028,20,17,Washington,Seattle,4,2005
+251002030,20,7,Denver,Jacksonville,4,2005
+251002033,13,3,Baltimore,NY Jets,4,2005
+251002001,30,10,Atlanta,Minnesota,4,2005
+251002012,37,31,Philadelphia,Kansas City,4,2005
+251002013,19,13,Oakland,Dallas,4,2005
+251002022,31,14,Arizona,San Francisco,4,2005
+251003029,32,29,Carolina,Green Bay,4,2005
+251009001,31,28,New England,Atlanta,5,2005
+251009002,20,14,Buffalo,Miami,5,2005
+251009005,20,10,Cleveland,Chicago,5,2005
+251009008,35,17,Detroit,Baltimore,5,2005
+251009009,52,3,Green Bay,New Orleans,5,2005
+251009014,37,31,Seattle,St. Louis,5,2005
+251009020,14,12,NY Jets,Tampa Bay,5,2005
+251009034,34,20,Tennessee,Houston,5,2005
+251009025,28,3,Indianapolis,San Francisco,5,2005
+251009006,33,10,Dallas,Philadelphia,5,2005
+251009007,21,19,Denver,Washington,5,2005
+251009022,24,20,Carolina,Arizona,5,2005
+251009030,23,20,Jacksonville,Cincinnati,5,2005
+251010024,24,22,Pittsburgh,San Diego,5,2005
+251016003,28,3,Chicago,Minnesota,6,2005
+251016006,16,13,Dallas,NY Giants,6,2005
+251016008,21,20,Carolina,Detroit,6,2005
+251016010,31,23,Cincinnati,Tennessee,6,2005
+251016012,28,21,Kansas City,Washington,6,2005
+251016018,34,31,Atlanta,New Orleans,6,2005
+251016023,23,17,Jacksonville,Pittsburgh,6,2005
+251016027,27,13,Tampa Bay,Miami,6,2005
+251016033,16,3,Baltimore,Cleveland,6,2005
+251016002,27,17,Buffalo,NY Jets,6,2005
+251016007,28,20,Denver,New England,6,2005
+251016013,27,14,San Diego,Oakland,6,2005
+251016026,42,10,Seattle,Houston,6,2005
+251017011,45,28,Indianapolis,St. Louis,6,2005
+251021015,30,20,Kansas City,Miami,7,2005
+251023004,27,13,Pittsburgh,Cincinnati,7,2005
+251023005,13,10,Detroit,Cleveland,7,2005
+251023014,28,17,St. Louis,New Orleans,7,2005
+251023016,23,20,Minnesota,Green Bay,7,2005
+251023021,20,17,Philadelphia,San Diego,7,2005
+251023028,52,17,Washington,San Francisco,7,2005
+251023034,38,20,Indianapolis,Houston,7,2005
+251023026,13,10,Seattle,Dallas,7,2005
+251023003,10,6,Chicago,Baltimore,7,2005
+251023013,38,17,Oakland,Buffalo,7,2005
+251023019,24,23,NY Giants,Denver,7,2005
+251023022,20,10,Arizona,Tennessee,7,2005
+251024001,27,14,Atlanta,NY Jets,7,2005
+251030004,21,14,Cincinnati,Green Bay,8,2005
+251030006,34,13,Dallas,Arizona,8,2005
+251030008,19,13,Chicago,Detroit,8,2005
+251030010,34,25,Oakland,Tennessee,8,2005
+251030014,24,21,St. Louis,Jacksonville,8,2005
+251030019,36,0,NY Giants,Washington,8,2005
+251030029,38,13,Carolina,Minnesota,8,2005
+251030034,19,16,Houston,Cleveland,8,2005
+251030018,21,6,Miami,New Orleans,8,2005
+251030024,28,20,San Diego,Kansas City,8,2005
+251030007,49,21,Denver,Philadelphia,8,2005
+251030025,15,10,San Francisco,Tampa Bay,8,2005
+251030017,21,16,New England,Buffalo,8,2005
+251031023,20,19,Pittsburgh,Baltimore,8,2005
+251106005,20,14,Cleveland,Tennessee,9,2005
+251106012,27,23,Kansas City,Oakland,9,2005
+251106015,17,10,Atlanta,Miami,9,2005
+251106016,27,14,Minnesota,Detroit,9,2005
+251106020,31,26,San Diego,NY Jets,9,2005
+251106027,34,14,Carolina,Tampa Bay,9,2005
+251106030,21,14,Jacksonville,Houston,9,2005
+251106033,21,9,Cincinnati,Baltimore,9,2005
+251106018,20,17,Chicago,New Orleans,9,2005
+251106022,33,19,Seattle,Arizona,9,2005
+251106025,24,6,NY Giants,San Francisco,9,2005
+251106009,20,10,Pittsburgh,Green Bay,9,2005
+251106028,17,10,Washington,Philadelphia,9,2005
+251107017,40,21,Indianapolis,New England,9,2005
+260907023,28,17,Pittsburgh,Miami,1,2006
+260910005,19,14,New Orleans,Cleveland,1,2006
+260910008,9,6,Seattle,Detroit,1,2006
+260910010,23,16,NY Jets,Tennessee,1,2006
+260910012,23,10,Cincinnati,Kansas City,1,2006
+260910014,18,10,St. Louis,Denver,1,2006
+260910017,19,17,New England,Buffalo,1,2006
+260910027,27,0,Baltimore,Tampa Bay,1,2006
+260910029,20,6,Atlanta,Carolina,1,2006
+260910034,24,10,Philadelphia,Houston,1,2006
+260910009,26,0,Chicago,Green Bay,1,2006
+260910022,34,27,Arizona,San Francisco,1,2006
+260910030,24,17,Jacksonville,Dallas,1,2006
+260910019,26,21,Indianapolis,NY Giants,1,2006
+260911028,19,16,Minnesota,Washington,1,2006
+260911013,27,0,San Diego,Oakland,1,2006
+261112001,17,13,Cleveland,Atlanta,10,2006
+261112004,49,41,San Diego,Cincinnati,10,2006
+261112008,19,13,San Francisco,Detroit,10,2006
+261112010,27,26,Baltimore,Tennessee,10,2006
+261112011,17,16,Indianapolis,Buffalo,10,2006
+261112015,13,10,Miami,Kansas City,10,2006
+261112016,23,17,Green Bay,Minnesota,10,2006
+261112017,17,14,NY Jets,New England,10,2006
+261112021,27,3,Philadelphia,Washington,10,2006
+261112030,13,10,Houston,Jacksonville,10,2006
+261112013,17,13,Denver,Oakland,10,2006
+261112022,27,10,Dallas,Arizona,10,2006
+261112023,38,31,Pittsburgh,New Orleans,10,2006
+261112026,24,22,Seattle,St. Louis,10,2006
+261112019,38,20,Chicago,NY Giants,10,2006
+261113029,24,10,Carolina,Tampa Bay,10,2006
+261119005,24,20,Pittsburgh,Cleveland,11,2006
+261119009,35,0,New England,Green Bay,11,2006
+261119012,17,13,Kansas City,Oakland,11,2006
+261119015,24,20,Miami,Minnesota,11,2006
+261119018,31,16,Cincinnati,New Orleans,11,2006
+261119020,10,0,Chicago,NY Jets,11,2006
+261119021,31,13,Tennessee,Philadelphia,11,2006
+261119027,20,17,Tampa Bay,Washington,11,2006
+261119029,15,0,Carolina,St. Louis,11,2006
+261119033,24,10,Baltimore,Atlanta,11,2006
+261119034,24,21,Buffalo,Houston,11,2006
+261119022,17,10,Arizona,Detroit,11,2006
+261119025,20,14,San Francisco,Seattle,11,2006
+261119006,21,14,Dallas,Indianapolis,11,2006
+261119007,35,27,San Diego,Denver,11,2006
+261120030,26,10,Jacksonville,NY Giants,11,2006
+261123008,27,10,Miami,Detroit,12,2006
+261123006,38,10,Dallas,Tampa Bay,12,2006
+261123012,19,10,Kansas City,Denver,12,2006
+261126001,31,13,New Orleans,Atlanta,12,2006
+261126002,27,24,Buffalo,Jacksonville,12,2006
+261126005,30,0,Cincinnati,Cleveland,12,2006
+261126014,20,17,St. Louis,San Francisco,12,2006
+261126016,31,26,Minnesota,Arizona,12,2006
+261126020,26,11,NY Jets,Houston,12,2006
+261126028,17,13,Washington,Carolina,12,2006
+261126033,27,0,Baltimore,Pittsburgh,12,2006
+261126024,21,14,San Diego,Oakland,12,2006
+261126010,24,21,Tennessee,NY Giants,12,2006
+261126017,17,13,New England,Chicago,12,2006
+261126011,45,21,Indianapolis,Philadelphia,12,2006
+261127026,34,24,Seattle,Green Bay,12,2006
+261130004,13,7,Cincinnati,Baltimore,13,2006
+261203002,24,21,San Diego,Buffalo,13,2006
+261203003,23,13,Chicago,Minnesota,13,2006
+261203005,31,28,Cleveland,Kansas City,13,2006
+261203009,38,10,NY Jets,Green Bay,13,2006
+261203010,20,17,Tennessee,Indianapolis,13,2006
+261203014,34,20,Arizona,St. Louis,13,2006
+261203017,28,21,New England,Detroit,13,2006
+261203018,34,10,New Orleans,San Francisco,13,2006
+261203028,24,14,Atlanta,Washington,13,2006
+261203019,23,20,Dallas,NY Giants,13,2006
+261203013,23,14,Houston,Oakland,13,2006
+261203015,24,10,Jacksonville,Miami,13,2006
+261203023,20,3,Pittsburgh,Tampa Bay,13,2006
+261203007,23,20,Seattle,Denver,13,2006
+261204021,27,24,Philadelphia,Carolina,13,2006
+261207023,27,7,Pittsburgh,Cleveland,14,2006
+261210004,27,10,Cincinnati,Oakland,14,2006
+261210008,30,20,Minnesota,Detroit,14,2006
+261210012,20,10,Baltimore,Kansas City,14,2006
+261210015,21,0,Miami,New England,14,2006
+261210027,17,6,Atlanta,Tampa Bay,14,2006
+261210028,21,19,Philadelphia,Washington,14,2006
+261210029,27,13,NY Giants,Carolina,14,2006
+261210030,44,17,Jacksonville,Indianapolis,14,2006
+261210034,26,20,Tennessee,Houston,14,2006
+261210022,27,21,Arizona,Seattle,14,2006
+261210025,30,19,Green Bay,San Francisco,14,2006
+261210020,31,13,Buffalo,NY Jets,14,2006
+261210024,48,20,San Diego,Denver,14,2006
+261210006,42,17,New Orleans,Dallas,14,2006
+261211014,42,27,Chicago,St. Louis,14,2006
+261214026,24,14,San Francisco,Seattle,15,2006
+261216001,38,28,Dallas,Atlanta,15,2006
+261217002,21,0,Buffalo,Miami,15,2006
+261217003,34,31,Chicago,Tampa Bay,15,2006
+261217009,17,9,Green Bay,Detroit,15,2006
+261217010,24,17,Tennessee,Jacksonville,15,2006
+261217016,26,13,NY Jets,Minnesota,15,2006
+261217017,40,7,New England,Houston,15,2006
+261217018,16,10,Washington,New Orleans,15,2006
+261217029,37,3,Pittsburgh,Carolina,15,2006
+261217033,27,17,Baltimore,Cleveland,15,2006
+261217022,37,20,Denver,Arizona,15,2006
+261217013,20,0,St. Louis,Oakland,15,2006
+261217019,36,22,Philadelphia,NY Giants,15,2006
+261217024,20,9,San Diego,Kansas City,15,2006
+261218011,34,16,Indianapolis,Cincinnati,15,2006
+261221009,9,7,Green Bay,Minnesota,16,2006
+261223013,20,9,Kansas City,Oakland,16,2006
+261224001,10,3,Carolina,Atlanta,16,2006
+261224002,30,29,Tennessee,Buffalo,16,2006
+261224005,22,7,Tampa Bay,Cleveland,16,2006
+261224008,26,21,Chicago,Detroit,16,2006
+261224014,37,31,St. Louis,Washington,16,2006
+261224019,30,7,New Orleans,NY Giants,16,2006
+261224023,31,7,Baltimore,Pittsburgh,16,2006
+261224030,24,21,New England,Jacksonville,16,2006
+261224034,27,24,Houston,Indianapolis,16,2006
+261224025,26,20,Arizona,San Francisco,16,2006
+261224007,24,23,Denver,Cincinnati,16,2006
+261224026,20,17,San Diego,Seattle,16,2006
+261225006,23,7,Philadelphia,Dallas,16,2006
+261225015,13,10,NY Jets,Miami,16,2006
+261230028,34,28,NY Giants,Washington,17,2006
+261231004,23,17,Pittsburgh,Cincinnati,17,2006
+261231006,39,31,Detroit,Dallas,17,2006
+261231010,40,23,New England,Tennessee,17,2006
+261231012,35,30,Kansas City,Jacksonville,17,2006
+261231016,41,21,St. Louis,Minnesota,17,2006
+261231018,31,21,Carolina,New Orleans,17,2006
+261231020,23,3,NY Jets,Oakland,17,2006
+261231027,23,7,Seattle,Tampa Bay,17,2006
+261231034,14,6,Houston,Cleveland,17,2006
+261231007,26,23,San Francisco,Denver,17,2006
+261231011,27,22,Indianapolis,Miami,17,2006
+261231021,24,17,Philadelphia,Atlanta,17,2006
+261231024,27,20,San Diego,Arizona,17,2006
+261231033,19,7,Baltimore,Buffalo,17,2006
+261231003,26,7,Green Bay,Chicago,17,2006
+260917001,14,3,Atlanta,Tampa Bay,2,2006
+260917003,34,7,Chicago,Detroit,2,2006
+260917004,34,17,Cincinnati,Cleveland,2,2006
+260917009,34,27,New Orleans,Green Bay,2,2006
+260917011,43,24,Indianapolis,Houston,2,2006
+260917015,16,6,Buffalo,Miami,2,2006
+260917016,16,13,Minnesota,Carolina,2,2006
+260917021,30,24,NY Giants,Philadelphia,2,2006
+260917033,28,6,Baltimore,Oakland,2,2006
+260917025,20,13,San Francisco,St. Louis,2,2006
+260917026,21,10,Seattle,Arizona,2,2006
+260917007,9,6,Denver,Kansas City,2,2006
+260917020,24,17,New England,NY Jets,2,2006
+260917024,40,7,San Diego,Tennessee,2,2006
+260917006,27,10,Dallas,Washington,2,2006
+260918030,9,0,Jacksonville,Pittsburgh,2,2006
+260924002,28,20,NY Jets,Buffalo,3,2006
+260924008,31,24,Green Bay,Detroit,3,2006
+260924011,21,14,Indianapolis,Jacksonville,3,2006
+260924015,13,10,Miami,Tennessee,3,2006
+260924016,19,16,Chicago,Minnesota,3,2006
+260924023,28,20,Cincinnati,Pittsburgh,3,2006
+260924027,26,24,Carolina,Tampa Bay,3,2006
+260924034,31,15,Washington,Houston,3,2006
+260924005,15,14,Baltimore,Cleveland,3,2006
+260924022,16,14,St. Louis,Arizona,3,2006
+260924025,38,24,Philadelphia,San Francisco,3,2006
+260924026,42,30,Seattle,NY Giants,3,2006
+260924017,17,7,Denver,New England,3,2006
+260925018,23,3,New Orleans,Atlanta,3,2006
+261001001,32,10,Atlanta,Arizona,4,2006
+261001002,17,12,Buffalo,Minnesota,4,2006
+261001010,45,14,Dallas,Tennessee,4,2006
+261001012,41,0,Kansas City,San Francisco,4,2006
+261001020,31,28,Indianapolis,NY Jets,4,2006
+261001029,21,18,Carolina,New Orleans,4,2006
+261001033,16,13,Baltimore,San Diego,4,2006
+261001034,17,15,Houston,Miami,4,2006
+261001014,41,34,St. Louis,Detroit,4,2006
+261001004,38,13,New England,Cincinnati,4,2006
+261001013,24,21,Cleveland,Oakland,4,2006
+261001028,36,30,Washington,Jacksonville,4,2006
+261001003,37,6,Chicago,Seattle,4,2006
+261002021,31,9,Philadelphia,Green Bay,4,2006
+261008003,40,7,Chicago,Buffalo,5,2006
+261008009,23,20,St. Louis,Green Bay,5,2006
+261008011,14,13,Indianapolis,Tennessee,5,2006
+261008016,26,17,Minnesota,Detroit,5,2006
+261008017,20,10,New England,Miami,5,2006
+261008018,24,21,New Orleans,Tampa Bay,5,2006
+261008019,19,3,NY Giants,Washington,5,2006
+261008029,20,12,Carolina,Cleveland,5,2006
+261008022,23,20,Kansas City,Arizona,5,2006
+261008025,34,20,San Francisco,Oakland,5,2006
+261008030,41,0,Jacksonville,NY Jets,5,2006
+261008021,38,24,Philadelphia,Dallas,5,2006
+261008024,23,13,San Diego,Pittsburgh,5,2006
+261009007,13,3,Denver,Baltimore,5,2006
+261015001,27,14,NY Giants,Atlanta,6,2006
+261015006,34,6,Dallas,Houston,6,2006
+261015008,20,17,Detroit,Buffalo,6,2006
+261015014,30,28,Seattle,St. Louis,6,2006
+261015018,27,24,New Orleans,Philadelphia,6,2006
+261015027,14,13,Tampa Bay,Cincinnati,6,2006
+261015028,25,22,Tennessee,Washington,6,2006
+261015033,23,21,Carolina,Baltimore,6,2006
+261015020,20,17,NY Jets,Miami,6,2006
+261015023,45,7,Pittsburgh,Kansas City,6,2006
+261015025,48,19,San Diego,San Francisco,6,2006
+261015007,13,3,Denver,Oakland,6,2006
+261016022,24,23,Chicago,Arizona,6,2006
+261022001,41,38,Atlanta,Pittsburgh,7,2006
+261022002,28,6,New England,Buffalo,7,2006
+261022004,17,14,Cincinnati,Carolina,7,2006
+261022012,30,27,Kansas City,San Diego,7,2006
+261022015,34,24,Green Bay,Miami,7,2006
+261022020,31,24,NY Jets,Detroit,7,2006
+261022027,23,21,Tampa Bay,Philadelphia,7,2006
+261022034,27,7,Houston,Jacksonville,7,2006
+261022005,17,7,Denver,Cleveland,7,2006
+261022011,36,22,Indianapolis,Washington,7,2006
+261022013,22,9,Oakland,Arizona,7,2006
+261022026,31,13,Minnesota,Seattle,7,2006
+261023006,36,22,NY Giants,Dallas,7,2006
+261029003,41,10,Chicago,San Francisco,8,2006
+261029004,29,27,Atlanta,Cincinnati,8,2006
+261029009,31,14,Green Bay,Arizona,8,2006
+261029010,28,22,Tennessee,Houston,8,2006
+261029012,35,28,Kansas City,Seattle,8,2006
+261029018,35,22,Baltimore,New Orleans,8,2006
+261029019,17,3,NY Giants,Tampa Bay,8,2006
+261029021,13,6,Jacksonville,Philadelphia,8,2006
+261029024,38,24,San Diego,St. Louis,8,2006
+261029005,20,13,Cleveland,NY Jets,8,2006
+261029007,34,31,Indianapolis,Denver,8,2006
+261029013,20,13,Oakland,Pittsburgh,8,2006
+261029029,35,14,Dallas,Carolina,8,2006
+261030016,31,7,New England,Minnesota,8,2006
+261105002,24,10,Buffalo,Green Bay,9,2006
+261105003,31,13,Miami,Chicago,9,2006
+261105008,30,14,Detroit,Atlanta,9,2006
+261105014,31,17,Kansas City,St. Louis,9,2006
+261105019,14,10,NY Giants,Houston,9,2006
+261105027,31,14,New Orleans,Tampa Bay,9,2006
+261105028,22,19,Washington,Dallas,9,2006
+261105030,37,7,Jacksonville,Tennessee,9,2006
+261105033,26,20,Baltimore,Cincinnati,9,2006
+261105025,9,3,San Francisco,Minnesota,9,2006
+261105023,31,20,Denver,Pittsburgh,9,2006
+261105024,32,25,San Diego,Cleveland,9,2006
+261105017,27,20,Indianapolis,New England,9,2006
+261106026,16,0,Seattle,Oakland,9,2006
+270906011,41,10,Indianapolis,New Orleans,1,2007
+270909002,15,14,Denver,Buffalo,1,2007
+270909005,34,7,Pittsburgh,Cleveland,1,2007
+270909009,16,13,Green Bay,Philadelphia,1,2007
+270909014,27,13,Carolina,St. Louis,1,2007
+270909016,24,3,Minnesota,Atlanta,1,2007
+270909020,38,14,New England,NY Jets,1,2007
+270909028,16,13,Washington,Miami,1,2007
+270909030,13,10,Tennessee,Jacksonville,1,2007
+270909034,20,3,Houston,Kansas City,1,2007
+270909013,36,21,Detroit,Oakland,1,2007
+270909024,14,3,San Diego,Chicago,1,2007
+270909026,20,6,Seattle,Tampa Bay,1,2007
+270909006,45,35,Dallas,NY Giants,1,2007
+270910004,27,20,Cincinnati,Baltimore,1,2007
+270910025,20,17,San Francisco,Arizona,1,2007
+271111009,34,0,Green Bay,Minnesota,10,2007
+271111010,28,13,Jacksonville,Tennessee,10,2007
+271111012,27,11,Denver,Kansas City,10,2007
+271111015,13,10,Buffalo,Miami,10,2007
+271111018,37,29,St. Louis,New Orleans,10,2007
+271111023,31,28,Pittsburgh,Cleveland,10,2007
+271111028,33,25,Philadelphia,Washington,10,2007
+271111029,20,13,Atlanta,Carolina,10,2007
+271111033,21,7,Cincinnati,Baltimore,10,2007
+271111013,17,6,Chicago,Oakland,10,2007
+271111019,31,20,Dallas,NY Giants,10,2007
+271111022,31,21,Arizona,Detroit,10,2007
+271111024,23,21,San Diego,Indianapolis,10,2007
+271112026,24,0,Seattle,San Francisco,10,2007
+271118001,31,7,Tampa Bay,Atlanta,11,2007
+271118004,35,27,Arizona,Cincinnati,11,2007
+271118008,16,10,NY Giants,Detroit,11,2007
+271118009,31,17,Green Bay,Carolina,11,2007
+271118011,13,10,Indianapolis,Kansas City,11,2007
+271118016,29,22,Minnesota,Oakland,11,2007
+271118021,17,7,Philadelphia,Miami,11,2007
+271118030,24,17,Jacksonville,San Diego,11,2007
+271118033,33,30,Cleveland,Baltimore,11,2007
+271118034,23,10,Houston,New Orleans,11,2007
+271118020,19,16,NY Jets,Pittsburgh,11,2007
+271118006,28,23,Dallas,Washington,11,2007
+271118025,13,9,St. Louis,San Francisco,11,2007
+271118026,30,23,Seattle,Chicago,11,2007
+271118002,56,10,New England,Buffalo,11,2007
+271119007,34,20,Denver,Tennessee,11,2007
+271122008,37,26,Green Bay,Detroit,12,2007
+271122006,34,3,Dallas,NY Jets,12,2007
+271122001,31,13,Indianapolis,Atlanta,12,2007
+271125004,35,6,Cincinnati,Tennessee,12,2007
+271125005,27,17,Cleveland,Houston,12,2007
+271125012,20,17,Oakland,Kansas City,12,2007
+271125014,24,19,Seattle,St. Louis,12,2007
+271125019,41,17,Minnesota,NY Giants,12,2007
+271125027,19,13,Tampa Bay,Washington,12,2007
+271125029,31,6,New Orleans,Carolina,12,2007
+271125030,36,14,Jacksonville,Buffalo,12,2007
+271125022,37,31,San Francisco,Arizona,12,2007
+271125003,37,34,Chicago,Denver,12,2007
+271125024,32,14,San Diego,Baltimore,12,2007
+271125017,31,28,New England,Philadelphia,12,2007
+271126023,3,0,Pittsburgh,Miami,12,2007
+271129006,37,27,Dallas,Green Bay,13,2007
+271202010,28,20,Tennessee,Houston,13,2007
+271202011,28,25,Indianapolis,Jacksonville,13,2007
+271202012,24,10,San Diego,Kansas City,13,2007
+271202014,28,16,St. Louis,Atlanta,13,2007
+271202015,40,13,NY Jets,Miami,13,2007
+271202016,42,10,Minnesota,Detroit,13,2007
+271202021,28,24,Seattle,Philadelphia,13,2007
+271202028,17,16,Buffalo,Washington,13,2007
+271202029,31,14,Carolina,San Francisco,13,2007
+271202013,34,20,Oakland,Denver,13,2007
+271202022,27,21,Arizona,Cleveland,13,2007
+271202003,21,16,NY Giants,Chicago,13,2007
+271202018,27,23,Tampa Bay,New Orleans,13,2007
+271202023,24,10,Pittsburgh,Cincinnati,13,2007
+271203033,27,24,New England,Baltimore,13,2007
+271206028,24,16,Washington,Chicago,14,2007
+271209002,38,17,Buffalo,Miami,14,2007
+271209004,19,10,Cincinnati,St. Louis,14,2007
+271209008,28,27,Dallas,Detroit,14,2007
+271209009,38,7,Green Bay,Oakland,14,2007
+271209010,23,17,San Diego,Tennessee,14,2007
+271209021,16,13,NY Giants,Philadelphia,14,2007
+271209030,37,6,Jacksonville,Carolina,14,2007
+271209034,28,14,Houston,Tampa Bay,14,2007
+271209025,27,7,Minnesota,San Francisco,14,2007
+271209026,42,21,Seattle,Arizona,14,2007
+271209007,41,7,Denver,Kansas City,14,2007
+271209017,34,13,New England,Pittsburgh,14,2007
+271209020,24,18,Cleveland,NY Jets,14,2007
+271209033,44,20,Indianapolis,Baltimore,14,2007
+271210001,34,14,New Orleans,Atlanta,14,2007
+271213034,31,13,Houston,Denver,15,2007
+271215025,20,13,San Francisco,Cincinnati,15,2007
+271216005,8,0,Cleveland,Buffalo,15,2007
+271216012,26,17,Tennessee,Kansas City,15,2007
+271216014,33,14,Green Bay,St. Louis,15,2007
+271216015,22,16,Miami,Baltimore,15,2007
+271216017,20,10,New England,NY Jets,15,2007
+271216018,31,24,New Orleans,Arizona,15,2007
+271216023,29,22,Jacksonville,Pittsburgh,15,2007
+271216027,37,3,Tampa Bay,Atlanta,15,2007
+271216029,13,10,Carolina,Seattle,15,2007
+271216013,21,14,Indianapolis,Oakland,15,2007
+271216006,10,6,Philadelphia,Dallas,15,2007
+271216024,51,14,San Diego,Detroit,15,2007
+271216019,22,10,Washington,NY Giants,15,2007
+271217016,20,13,Minnesota,Chicago,15,2007
+271220014,41,24,Pittsburgh,St. Louis,16,2007
+271222029,20,13,Dallas,Carolina,16,2007
+271223002,38,21,NY Giants,Buffalo,16,2007
+271223003,35,7,Chicago,Green Bay,16,2007
+271223004,19,14,Cincinnati,Cleveland,16,2007
+271223008,25,20,Detroit,Kansas City,16,2007
+271223011,38,15,Indianapolis,Houston,16,2007
+271223018,38,23,Philadelphia,New Orleans,16,2007
+271223030,49,11,Jacksonville,Oakland,16,2007
+271223022,30,27,Arizona,Atlanta,16,2007
+271223025,21,19,San Francisco,Tampa Bay,16,2007
+271223010,10,6,Tennessee,NY Jets,16,2007
+271223017,28,7,New England,Miami,16,2007
+271223026,27,6,Seattle,Baltimore,16,2007
+271223016,32,21,Washington,Minnesota,16,2007
+271224024,23,3,San Diego,Denver,16,2007
+271229019,38,35,New England,NY Giants,17,2007
+271230001,44,41,Atlanta,Seattle,17,2007
+271230003,33,25,Chicago,New Orleans,17,2007
+271230005,20,7,Cleveland,San Francisco,17,2007
+271230009,34,13,Green Bay,Detroit,17,2007
+271230015,38,25,Cincinnati,Miami,17,2007
+271230021,17,9,Philadelphia,Buffalo,17,2007
+271230027,31,23,Carolina,Tampa Bay,17,2007
+271230034,42,28,Houston,Jacksonville,17,2007
+271230007,22,19,Denver,Minnesota,17,2007
+271230013,30,17,San Diego,Oakland,17,2007
+271230020,13,10,NY Jets,Kansas City,17,2007
+271230022,48,19,Arizona,St. Louis,17,2007
+271230028,27,6,Washington,Dallas,17,2007
+271230033,27,21,Baltimore,Pittsburgh,17,2007
+271230011,16,10,Tennessee,Indianapolis,17,2007
+270916005,51,45,Cleveland,Cincinnati,2,2007
+270916010,22,20,Indianapolis,Tennessee,2,2007
+270916014,17,16,San Francisco,St. Louis,2,2007
+270916019,35,13,Green Bay,NY Giants,2,2007
+270916023,26,3,Pittsburgh,Buffalo,2,2007
+270916027,31,14,Tampa Bay,New Orleans,2,2007
+270916029,34,21,Houston,Carolina,2,2007
+270916030,13,7,Jacksonville,Atlanta,2,2007
+270916008,20,17,Detroit,Minnesota,2,2007
+270916015,37,20,Dallas,Miami,2,2007
+270916022,23,20,Arizona,Seattle,2,2007
+270916003,20,10,Chicago,Kansas City,2,2007
+270916007,23,20,Denver,Oakland,2,2007
+270916033,20,13,Baltimore,NY Jets,2,2007
+270916017,38,14,New England,San Diego,2,2007
+270917021,20,12,Washington,Philadelphia,2,2007
+270923009,31,24,Green Bay,San Diego,3,2007
+270923012,13,10,Kansas City,Minnesota,3,2007
+270923017,38,7,New England,Buffalo,3,2007
+270923020,31,28,NY Jets,Miami,3,2007
+270923021,56,21,Philadelphia,Detroit,3,2007
+270923023,37,16,Pittsburgh,San Francisco,3,2007
+270923027,24,3,Tampa Bay,St. Louis,3,2007
+270923033,26,23,Baltimore,Arizona,3,2007
+270923034,30,24,Indianapolis,Houston,3,2007
+270923007,23,14,Jacksonville,Denver,3,2007
+270923013,26,24,Oakland,Cleveland,3,2007
+270923026,24,21,Seattle,Cincinnati,3,2007
+270923001,27,20,Carolina,Atlanta,3,2007
+270923028,24,17,NY Giants,Washington,3,2007
+270923003,34,10,Dallas,Chicago,3,2007
+270924018,31,14,Tennessee,New Orleans,3,2007
+270930001,26,16,Atlanta,Houston,4,2007
+270930002,17,14,Buffalo,NY Jets,4,2007
+270930005,27,13,Cleveland,Baltimore,4,2007
+270930006,35,7,Dallas,St. Louis,4,2007
+270930008,37,27,Detroit,Chicago,4,2007
+270930015,35,17,Oakland,Miami,4,2007
+270930016,23,16,Green Bay,Minnesota,4,2007
+270930025,23,3,Seattle,San Francisco,4,2007
+270930029,20,7,Tampa Bay,Carolina,4,2007
+270930011,38,20,Indianapolis,Denver,4,2007
+270930022,21,14,Arizona,Pittsburgh,4,2007
+270930024,30,16,Kansas City,San Diego,4,2007
+270930019,16,3,NY Giants,Philadelphia,4,2007
+271001004,34,13,New England,Cincinnati,4,2007
+271007010,20,13,Tennessee,Atlanta,5,2007
+271007012,17,7,Jacksonville,Kansas City,5,2007
+271007014,34,31,Arizona,St. Louis,5,2007
+271007017,34,17,New England,Cleveland,5,2007
+271007018,16,13,Carolina,New Orleans,5,2007
+271007019,35,24,NY Giants,NY Jets,5,2007
+271007023,21,0,Pittsburgh,Seattle,5,2007
+271007028,34,3,Washington,Detroit,5,2007
+271007034,22,19,Houston,Miami,5,2007
+271007011,33,14,Indianapolis,Tampa Bay,5,2007
+271007007,41,3,San Diego,Denver,5,2007
+271007025,9,7,Baltimore,San Francisco,5,2007
+271007009,27,20,Chicago,Green Bay,5,2007
+271008002,25,24,Dallas,Buffalo,5,2007
+271014003,34,31,Minnesota,Chicago,6,2007
+271014005,41,31,Cleveland,Miami,6,2007
+271014009,17,14,Green Bay,Washington,6,2007
+271014012,27,20,Kansas City,Cincinnati,6,2007
+271014020,16,9,Philadelphia,NY Jets,6,2007
+271014027,13,10,Tampa Bay,Tennessee,6,2007
+271014030,37,17,Jacksonville,Houston,6,2007
+271014033,22,3,Baltimore,St. Louis,6,2007
+271014022,25,10,Carolina,Arizona,6,2007
+271014006,48,27,New England,Dallas,6,2007
+271014024,28,14,San Diego,Oakland,6,2007
+271014026,28,17,New Orleans,Seattle,6,2007
+271015001,31,10,NY Giants,Atlanta,6,2007
+271021002,19,14,Buffalo,Baltimore,7,2007
+271021008,23,16,Detroit,Tampa Bay,7,2007
+271021015,49,28,New England,Miami,7,2007
+271021018,22,16,New Orleans,Atlanta,7,2007
+271021019,33,15,NY Giants,San Francisco,7,2007
+271021028,21,19,Washington,Arizona,7,2007
+271021034,38,36,Tennessee,Houston,7,2007
+271021004,38,31,Cincinnati,NY Jets,7,2007
+271021013,12,10,Kansas City,Oakland,7,2007
+271021006,24,14,Dallas,Minnesota,7,2007
+271021021,19,16,Chicago,Philadelphia,7,2007
+271021026,33,6,Seattle,St. Louis,7,2007
+271021007,31,28,Denver,Pittsburgh,7,2007
+271022030,29,7,Indianapolis,Jacksonville,7,2007
+271028003,16,7,Detroit,Chicago,8,2007
+271028004,24,13,Pittsburgh,Cincinnati,8,2007
+271028010,13,9,Tennessee,Oakland,8,2007
+271028014,27,20,Cleveland,St. Louis,8,2007
+271028015,13,10,NY Giants,Miami,8,2007
+271028016,23,16,Philadelphia,Minnesota,8,2007
+271028029,31,7,Indianapolis,Carolina,8,2007
+271028020,13,3,Buffalo,NY Jets,8,2007
+271028024,35,10,San Diego,Houston,8,2007
+271028027,24,23,Jacksonville,Tampa Bay,8,2007
+271028017,52,7,New England,Washington,8,2007
+271028025,31,10,New Orleans,San Francisco,8,2007
+271029007,19,13,Green Bay,Denver,8,2007
+271104001,20,16,Atlanta,San Francisco,9,2007
+271104002,33,21,Buffalo,Cincinnati,9,2007
+271104008,44,7,Detroit,Denver,9,2007
+271104010,20,7,Tennessee,Carolina,9,2007
+271104012,33,22,Green Bay,Kansas City,9,2007
+271104016,35,17,Minnesota,San Diego,9,2007
+271104018,41,24,New Orleans,Jacksonville,9,2007
+271104020,23,20,Washington,NY Jets,9,2007
+271104027,17,10,Tampa Bay,Arizona,9,2007
+271104005,33,30,Cleveland,Seattle,9,2007
+271104011,24,20,New England,Indianapolis,9,2007
+271104013,24,17,Houston,Oakland,9,2007
+271104021,38,17,Dallas,Philadelphia,9,2007
+271105023,38,7,Pittsburgh,Baltimore,9,2007
+280904019,16,7,NY Giants,Washington,1,2008
+280907001,34,21,Atlanta,Detroit,1,2008
+280907002,34,10,Buffalo,Seattle,1,2008
+280907010,17,10,Tennessee,Jacksonville,1,2008
+280907015,20,14,NY Jets,Miami,1,2008
+280907017,17,10,New England,Kansas City,1,2008
+280907018,24,20,New Orleans,Tampa Bay,1,2008
+280907021,38,3,Philadelphia,St. Louis,1,2008
+280907023,38,17,Pittsburgh,Houston,1,2008
+280907033,17,10,Baltimore,Cincinnati,1,2008
+280907005,28,10,Dallas,Cleveland,1,2008
+280907024,26,24,Carolina,San Diego,1,2008
+280907025,23,13,Arizona,San Francisco,1,2008
+280907011,29,13,Chicago,Indianapolis,1,2008
+280908009,24,19,Green Bay,Minnesota,1,2008
+280908013,41,14,Denver,Oakland,1,2008
+281106005,34,30,Denver,Cleveland,10,2008
+281109001,34,20,Atlanta,New Orleans,10,2008
+281109003,21,14,Tennessee,Chicago,10,2008
+281109008,38,14,Jacksonville,Detroit,10,2008
+281109015,21,19,Miami,Seattle,10,2008
+281109016,28,27,Minnesota,Green Bay,10,2008
+281109017,20,10,New England,Buffalo,10,2008
+281109020,47,3,NY Jets,St. Louis,10,2008
+281109034,41,13,Baltimore,Houston,10,2008
+281109013,17,6,Carolina,Oakland,10,2008
+281109023,24,20,Indianapolis,Pittsburgh,10,2008
+281109024,20,19,San Diego,Kansas City,10,2008
+281109021,36,31,NY Giants,Philadelphia,10,2008
+281110022,29,24,Arizona,San Francisco,10,2008
+281113017,34,31,NY Jets,New England,11,2008
+281116001,24,20,Denver,Atlanta,11,2008
+281116004,13,13,Cincinnati,Philadelphia,11,2008
+281116009,37,3,Green Bay,Chicago,11,2008
+281116011,33,27,Indianapolis,Houston,11,2008
+281116012,30,20,New Orleans,Kansas City,11,2008
+281116015,17,15,Miami,Oakland,11,2008
+281116019,30,10,NY Giants,Baltimore,11,2008
+281116027,19,13,Tampa Bay,Minnesota,11,2008
+281116029,31,22,Carolina,Detroit,11,2008
+281116025,35,16,San Francisco,St. Louis,11,2008
+281116026,26,20,Arizona,Seattle,11,2008
+281116023,11,10,Pittsburgh,San Diego,11,2008
+281116030,24,14,Tennessee,Jacksonville,11,2008
+281116028,14,10,Dallas,Washington,11,2008
+281117002,29,27,Cleveland,Buffalo,11,2008
+281120023,27,10,Pittsburgh,Cincinnati,12,2008
+281123005,16,6,Houston,Cleveland,12,2008
+281123006,35,22,Dallas,San Francisco,12,2008
+281123008,38,20,Tampa Bay,Detroit,12,2008
+281123010,34,13,NY Jets,Tennessee,12,2008
+281123012,54,31,Buffalo,Kansas City,12,2008
+281123014,27,3,Chicago,St. Louis,12,2008
+281123015,48,28,New England,Miami,12,2008
+281123030,30,12,Minnesota,Jacksonville,12,2008
+281123033,36,7,Baltimore,Philadelphia,12,2008
+281123007,31,10,Oakland,Denver,12,2008
+281123001,45,28,Atlanta,Carolina,12,2008
+281123022,37,29,NY Giants,Arizona,12,2008
+281123026,20,17,Washington,Seattle,12,2008
+281123024,23,20,Indianapolis,San Diego,12,2008
+281124018,51,29,New Orleans,Green Bay,12,2008
+281127008,47,10,Tennessee,Detroit,13,2008
+281127006,34,9,Dallas,Seattle,13,2008
+281127021,48,20,Philadelphia,Arizona,13,2008
+281130002,10,3,San Francisco,Buffalo,13,2008
+281130004,34,3,Baltimore,Cincinnati,13,2008
+281130005,10,6,Indianapolis,Cleveland,13,2008
+281130009,35,31,Carolina,Green Bay,13,2008
+281130014,16,12,Miami,St. Louis,13,2008
+281130027,23,20,Tampa Bay,New Orleans,13,2008
+281130028,23,7,NY Giants,Washington,13,2008
+281130024,22,16,Atlanta,San Diego,13,2008
+281130013,20,13,Kansas City,Oakland,13,2008
+281130017,33,10,Pittsburgh,New England,13,2008
+281130020,34,17,Denver,NY Jets,13,2008
+281130016,34,14,Minnesota,Chicago,13,2008
+281201034,30,17,Houston,Jacksonville,13,2008
+281204024,34,7,San Diego,Oakland,14,2008
+281207003,23,10,Chicago,Jacksonville,14,2008
+281207008,20,16,Minnesota,Detroit,14,2008
+281207009,24,21,Houston,Green Bay,14,2008
+281207010,28,9,Tennessee,Cleveland,14,2008
+281207011,35,3,Indianapolis,Cincinnati,14,2008
+281207018,29,25,New Orleans,Atlanta,14,2008
+281207019,20,14,Philadelphia,NY Giants,14,2008
+281207002,16,3,Miami,Buffalo,14,2008
+281207007,24,17,Denver,Kansas City,14,2008
+281207025,24,14,San Francisco,NY Jets,14,2008
+281207026,24,21,New England,Seattle,14,2008
+281207022,34,10,Arizona,St. Louis,14,2008
+281207023,20,13,Pittsburgh,Dallas,14,2008
+281207033,24,10,Baltimore,Washington,14,2008
+281208029,38,23,Carolina,Tampa Bay,14,2008
+281211003,27,24,Chicago,New Orleans,15,2008
+281214001,13,10,Atlanta,Tampa Bay,15,2008
+281214004,20,13,Cincinnati,Washington,15,2008
+281214011,31,21,Indianapolis,Detroit,15,2008
+281214012,22,21,San Diego,Kansas City,15,2008
+281214014,23,20,Seattle,St. Louis,15,2008
+281214015,14,9,Miami,San Francisco,15,2008
+281214020,31,27,NY Jets,Buffalo,15,2008
+281214030,20,16,Jacksonville,Green Bay,15,2008
+281214034,13,12,Houston,Tennessee,15,2008
+281214022,35,14,Minnesota,Arizona,15,2008
+281214013,49,26,New England,Oakland,15,2008
+281214029,30,10,Carolina,Denver,15,2008
+281214033,13,9,Pittsburgh,Baltimore,15,2008
+281214006,20,8,Dallas,NY Giants,15,2008
+281215021,30,10,Philadelphia,Cleveland,15,2008
+281218030,31,24,Indianapolis,Jacksonville,16,2008
+281220006,33,24,Baltimore,Dallas,16,2008
+281221005,14,0,Cincinnati,Cleveland,16,2008
+281221008,42,7,New Orleans,Detroit,16,2008
+281221010,31,14,Tennessee,Pittsburgh,16,2008
+281221012,38,31,Miami,Kansas City,16,2008
+281221014,17,16,San Francisco,St. Louis,16,2008
+281221017,47,7,New England,Arizona,16,2008
+281221027,41,24,San Diego,Tampa Bay,16,2008
+281221007,30,23,Buffalo,Denver,16,2008
+281221013,27,16,Oakland,Houston,16,2008
+281221026,13,3,Seattle,NY Jets,16,2008
+281221016,24,17,Atlanta,Minnesota,16,2008
+281221028,10,3,Washington,Philadelphia,16,2008
+281221019,34,28,NY Giants,Carolina,16,2008
+281222003,20,17,Chicago,Green Bay,16,2008
+281228001,31,27,Atlanta,St. Louis,17,2008
+281228002,13,0,New England,Buffalo,17,2008
+281228004,16,6,Cincinnati,Kansas City,17,2008
+281228009,31,21,Green Bay,Detroit,17,2008
+281228011,23,0,Indianapolis,Tennessee,17,2008
+281228016,20,19,Minnesota,NY Giants,17,2008
+281228018,33,31,Carolina,New Orleans,17,2008
+281228023,31,0,Pittsburgh,Cleveland,17,2008
+281228027,31,24,Oakland,Tampa Bay,17,2008
+281228034,31,24,Houston,Chicago,17,2008
+281228020,24,17,Miami,NY Jets,17,2008
+281228021,44,6,Philadelphia,Dallas,17,2008
+281228022,34,21,Arizona,Seattle,17,2008
+281228025,27,24,San Francisco,Washington,17,2008
+281228033,27,7,Baltimore,Jacksonville,17,2008
+281228024,52,21,San Diego,Denver,17,2008
+280914004,24,7,Tennessee,Cincinnati,2,2008
+280914008,48,25,Green Bay,Detroit,2,2008
+280914012,23,8,Oakland,Kansas City,2,2008
+280914014,41,13,NY Giants,St. Louis,2,2008
+280914016,18,15,Indianapolis,Minnesota,2,2008
+280914028,29,24,Washington,New Orleans,2,2008
+280914029,20,17,Carolina,Chicago,2,2008
+280914030,20,16,Buffalo,Jacksonville,2,2008
+280914026,33,30,San Francisco,Seattle,2,2008
+280914027,24,9,Tampa Bay,Atlanta,2,2008
+280914007,39,38,Denver,San Diego,2,2008
+280914020,19,10,New England,NY Jets,2,2008
+280914022,31,10,Arizona,Miami,2,2008
+280914005,10,6,Pittsburgh,Cleveland,2,2008
+280915006,41,37,Dallas,Philadelphia,2,2008
+280921001,38,14,Atlanta,Kansas City,3,2008
+280921002,24,23,Buffalo,Oakland,3,2008
+280921003,27,24,Tampa Bay,Chicago,3,2008
+280921010,31,12,Tennessee,Houston,3,2008
+280921016,20,10,Minnesota,Carolina,3,2008
+280921017,38,13,Miami,New England,3,2008
+280921019,26,23,NY Giants,Cincinnati,3,2008
+280921028,24,17,Washington,Arizona,3,2008
+280921007,34,32,Denver,New Orleans,3,2008
+280921025,31,13,San Francisco,Detroit,3,2008
+280921026,37,13,Seattle,St. Louis,3,2008
+280921011,23,21,Jacksonville,Indianapolis,3,2008
+280921021,15,6,Philadelphia,Pittsburgh,3,2008
+280921033,28,10,Baltimore,Cleveland,3,2008
+280921009,27,16,Dallas,Green Bay,3,2008
+280922024,48,29,San Diego,NY Jets,3,2008
+280928004,20,12,Cleveland,Cincinnati,4,2008
+280928010,30,17,Tennessee,Minnesota,4,2008
+280928012,33,19,Kansas City,Denver,4,2008
+280928018,31,17,New Orleans,San Francisco,4,2008
+280928020,56,35,NY Jets,Arizona,4,2008
+280928027,30,21,Tampa Bay,Green Bay,4,2008
+280928029,24,9,Carolina,Atlanta,4,2008
+280928030,30,27,Jacksonville,Houston,4,2008
+280928013,28,18,San Diego,Oakland,4,2008
+280928014,31,14,Buffalo,St. Louis,4,2008
+280928006,26,24,Washington,Dallas,4,2008
+280928003,24,20,Chicago,Philadelphia,4,2008
+280929023,23,20,Pittsburgh,Baltimore,4,2008
+281005008,34,7,Chicago,Detroit,5,2008
+281005009,27,24,Atlanta,Green Bay,5,2008
+281005015,17,10,Miami,San Diego,5,2008
+281005019,44,6,NY Giants,Seattle,5,2008
+281005021,23,17,Washington,Philadelphia,5,2008
+281005029,34,0,Carolina,Kansas City,5,2008
+281005033,13,10,Tennessee,Baltimore,5,2008
+281005034,31,27,Indianapolis,Houston,5,2008
+281005007,16,13,Denver,Tampa Bay,5,2008
+281005006,31,22,Dallas,Cincinnati,5,2008
+281005022,41,17,Arizona,Buffalo,5,2008
+281005025,30,21,New England,San Francisco,5,2008
+281005030,26,21,Pittsburgh,Jacksonville,5,2008
+281006018,30,27,Minnesota,New Orleans,5,2008
+281012001,22,20,Atlanta,Chicago,6,2008
+281012011,31,3,Indianapolis,Baltimore,6,2008
+281012016,12,10,Minnesota,Detroit,6,2008
+281012018,34,3,New Orleans,Oakland,6,2008
+281012020,26,14,NY Jets,Cincinnati,6,2008
+281012027,27,3,Tampa Bay,Carolina,6,2008
+281012028,19,17,St. Louis,Washington,6,2008
+281012034,29,28,Houston,Miami,6,2008
+281012007,24,17,Jacksonville,Denver,6,2008
+281012022,30,24,Arizona,Dallas,6,2008
+281012025,40,26,Philadelphia,San Francisco,6,2008
+281012026,27,17,Green Bay,Seattle,6,2008
+281012024,30,10,San Diego,New England,6,2008
+281013005,35,14,Cleveland,NY Giants,6,2008
+281019002,23,14,Buffalo,San Diego,7,2008
+281019003,48,41,Chicago,Minnesota,7,2008
+281019004,38,10,Pittsburgh,Cincinnati,7,2008
+281019012,34,10,Tennessee,Kansas City,7,2008
+281019014,34,14,St. Louis,Dallas,7,2008
+281019015,27,13,Baltimore,Miami,7,2008
+281019019,29,17,NY Giants,San Francisco,7,2008
+281019029,30,7,Carolina,New Orleans,7,2008
+281019034,28,21,Houston,Detroit,7,2008
+281019009,34,14,Green Bay,Indianapolis,7,2008
+281019013,16,13,Oakland,NY Jets,7,2008
+281019028,14,11,Washington,Cleveland,7,2008
+281019027,20,10,Tampa Bay,Seattle,7,2008
+281020017,41,7,New England,Denver,7,2008
+281026006,13,9,Dallas,Tampa Bay,8,2008
+281026008,25,17,Washington,Detroit,8,2008
+281026015,25,16,Miami,Buffalo,8,2008
+281026017,23,16,New England,St. Louis,8,2008
+281026018,37,32,New Orleans,San Diego,8,2008
+281026020,28,24,NY Jets,Kansas City,8,2008
+281026021,27,14,Philadelphia,Atlanta,8,2008
+281026029,27,23,Carolina,Arizona,8,2008
+281026033,29,10,Baltimore,Oakland,8,2008
+281026030,23,17,Cleveland,Jacksonville,8,2008
+281026034,35,6,Houston,Cincinnati,8,2008
+281026023,21,14,NY Giants,Pittsburgh,8,2008
+281026025,34,13,Seattle,San Francisco,8,2008
+281027010,31,21,Tennessee,Indianapolis,8,2008
+281102002,26,17,NY Jets,Buffalo,9,2008
+281102003,27,23,Chicago,Detroit,9,2008
+281102004,21,19,Cincinnati,Jacksonville,9,2008
+281102005,37,27,Baltimore,Cleveland,9,2008
+281102010,19,16,Tennessee,Green Bay,9,2008
+281102012,30,27,Tampa Bay,Kansas City,9,2008
+281102014,34,13,Arizona,St. Louis,9,2008
+281102016,28,21,Minnesota,Houston,9,2008
+281102007,26,17,Miami,Denver,9,2008
+281102013,24,0,Atlanta,Oakland,9,2008
+281102019,35,14,NY Giants,Dallas,9,2008
+281102026,26,7,Philadelphia,Seattle,9,2008
+281102011,18,15,Indianapolis,New England,9,2008
+281103028,23,6,Pittsburgh,Washington,9,2008
+290910023,13,10,Pittsburgh,Tennessee,1,2009
+290913001,19,7,Atlanta,Miami,1,2009
+290913004,12,7,Denver,Cincinnati,1,2009
+290913005,34,20,Minnesota,Cleveland,1,2009
+290913011,14,12,Indianapolis,Jacksonville,1,2009
+290913018,45,27,New Orleans,Detroit,1,2009
+290913027,34,21,Dallas,Tampa Bay,1,2009
+290913029,38,10,Philadelphia,Carolina,1,2009
+290913033,38,24,Baltimore,Kansas City,1,2009
+290913034,24,7,NY Jets,Houston,1,2009
+290913019,23,17,NY Giants,Washington,1,2009
+290913022,20,16,San Francisco,Arizona,1,2009
+290913026,28,0,Seattle,St. Louis,1,2009
+290913009,21,15,Green Bay,Chicago,1,2009
+290914017,25,24,New England,Buffalo,1,2009
+290914013,24,20,San Diego,Oakland,1,2009
+291112025,10,6,San Francisco,Chicago,10,2009
+291115010,41,17,Tennessee,Buffalo,10,2009
+291115014,28,23,New Orleans,St. Louis,10,2009
+291115015,25,23,Miami,Tampa Bay,10,2009
+291115016,27,10,Minnesota,Detroit,10,2009
+291115020,24,22,Jacksonville,NY Jets,10,2009
+291115023,18,12,Cincinnati,Pittsburgh,10,2009
+291115028,27,17,Washington,Denver,10,2009
+291115029,28,19,Carolina,Atlanta,10,2009
+291115013,16,10,Kansas City,Oakland,10,2009
+291115009,17,7,Green Bay,Dallas,10,2009
+291115022,31,20,Arizona,Seattle,10,2009
+291115024,31,23,San Diego,Philadelphia,10,2009
+291115011,35,34,Indianapolis,New England,10,2009
+291116005,16,0,Baltimore,Cleveland,10,2009
+291119029,24,17,Miami,Carolina,11,2009
+291122006,7,6,Dallas,Washington,11,2009
+291122008,38,37,Detroit,Cleveland,11,2009
+291122009,30,24,Green Bay,San Francisco,11,2009
+291122012,27,24,Kansas City,Pittsburgh,11,2009
+291122016,35,9,Minnesota,Seattle,11,2009
+291122019,34,31,NY Giants,Atlanta,11,2009
+291122027,38,7,New Orleans,Tampa Bay,11,2009
+291122030,18,15,Jacksonville,Buffalo,11,2009
+291122033,17,15,Indianapolis,Baltimore,11,2009
+291122014,21,13,Arizona,St. Louis,11,2009
+291122007,32,3,San Diego,Denver,11,2009
+291122013,20,17,Oakland,Cincinnati,11,2009
+291122017,31,14,New England,NY Jets,11,2009
+291122003,24,20,Philadelphia,Chicago,11,2009
+291123034,20,17,Tennessee,Houston,11,2009
+291126008,34,12,Green Bay,Detroit,12,2009
+291126006,24,7,Dallas,Oakland,12,2009
+291126007,26,6,Denver,NY Giants,12,2009
+291129001,20,17,Atlanta,Tampa Bay,12,2009
+291129002,31,14,Buffalo,Miami,12,2009
+291129004,16,7,Cincinnati,Cleveland,12,2009
+291129014,27,17,Seattle,St. Louis,12,2009
+291129020,17,6,NY Jets,Carolina,12,2009
+291129021,27,24,Philadelphia,Washington,12,2009
+291129034,35,27,Indianapolis,Houston,12,2009
+291129024,43,14,San Diego,Kansas City,12,2009
+291129025,20,3,San Francisco,Jacksonville,12,2009
+291129010,20,17,Tennessee,Arizona,12,2009
+291129016,36,10,Minnesota,Chicago,12,2009
+291129033,20,17,Baltimore,Pittsburgh,12,2009
+291130018,38,17,New Orleans,New England,12,2009
+291203002,19,13,NY Jets,Buffalo,13,2009
+291206001,34,7,Philadelphia,Atlanta,13,2009
+291206003,17,9,Chicago,St. Louis,13,2009
+291206004,23,13,Cincinnati,Detroit,13,2009
+291206011,27,17,Indianapolis,Tennessee,13,2009
+291206012,44,13,Denver,Kansas City,13,2009
+291206015,22,21,Miami,New England,13,2009
+291206023,27,24,Oakland,Pittsburgh,13,2009
+291206028,33,30,New Orleans,Washington,13,2009
+291206029,16,6,Carolina,Tampa Bay,13,2009
+291206030,23,18,Jacksonville,Houston,13,2009
+291206005,30,23,San Diego,Cleveland,13,2009
+291206019,31,24,NY Giants,Dallas,13,2009
+291206026,20,17,Seattle,San Francisco,13,2009
+291206022,30,17,Arizona,Minnesota,13,2009
+291207009,27,14,Green Bay,Baltimore,13,2009
+291210005,13,6,Cleveland,Pittsburgh,14,2009
+291213001,26,23,New Orleans,Atlanta,14,2009
+291213003,21,14,Green Bay,Chicago,14,2009
+291213011,28,16,Indianapolis,Denver,14,2009
+291213012,16,10,Buffalo,Kansas City,14,2009
+291213016,30,10,Minnesota,Cincinnati,14,2009
+291213017,20,10,New England,Carolina,14,2009
+291213027,26,3,NY Jets,Tampa Bay,14,2009
+291213030,14,10,Miami,Jacksonville,14,2009
+291213033,48,3,Baltimore,Detroit,14,2009
+291213034,34,7,Houston,Seattle,14,2009
+291213010,47,7,Tennessee,St. Louis,14,2009
+291213013,34,13,Washington,Oakland,14,2009
+291213006,20,17,San Diego,Dallas,14,2009
+291213019,45,38,Philadelphia,NY Giants,14,2009
+291214025,24,9,San Francisco,Arizona,14,2009
+291217030,35,31,Indianapolis,Jacksonville,15,2009
+291219018,24,17,Dallas,New Orleans,15,2009
+291220002,17,10,New England,Buffalo,15,2009
+291220008,31,24,Arizona,Detroit,15,2009
+291220010,27,24,Tennessee,Miami,15,2009
+291220012,41,34,Cleveland,Kansas City,15,2009
+291220014,16,13,Houston,St. Louis,15,2009
+291220020,10,7,Atlanta,NY Jets,15,2009
+291220007,20,19,Oakland,Denver,15,2009
+291220024,27,24,San Diego,Cincinnati,15,2009
+291220021,27,13,Philadelphia,San Francisco,15,2009
+291220023,37,36,Pittsburgh,Green Bay,15,2009
+291220026,24,7,Tampa Bay,Seattle,15,2009
+291220033,31,7,Baltimore,Chicago,15,2009
+291220029,26,7,Carolina,Minnesota,15,2009
+291221028,45,12,NY Giants,Washington,15,2009
+291225010,42,17,San Diego,Tennessee,16,2009
+291227001,31,3,Atlanta,Buffalo,16,2009
+291227004,17,10,Cincinnati,Kansas City,16,2009
+291227005,23,9,Cleveland,Oakland,16,2009
+291227009,48,10,Green Bay,Seattle,16,2009
+291227015,27,20,Houston,Miami,16,2009
+291227017,35,7,New England,Jacksonville,16,2009
+291227018,20,17,Tampa Bay,New Orleans,16,2009
+291227019,41,9,Carolina,NY Giants,16,2009
+291227023,23,20,Pittsburgh,Baltimore,16,2009
+291227022,31,10,Arizona,St. Louis,16,2009
+291227025,20,6,San Francisco,Detroit,16,2009
+291227011,29,15,NY Jets,Indianapolis,16,2009
+291227021,30,27,Philadelphia,Denver,16,2009
+291227028,17,0,Dallas,Washington,16,2009
+291228003,36,30,Chicago,Minnesota,16,2009
+300103002,30,7,Buffalo,Indianapolis,17,2009
+300103005,23,17,Cleveland,Jacksonville,17,2009
+300103008,37,23,Chicago,Detroit,17,2009
+300103014,28,6,San Francisco,St. Louis,17,2009
+300103015,30,24,Pittsburgh,Miami,17,2009
+300103016,44,7,Minnesota,NY Giants,17,2009
+300103027,20,10,Atlanta,Tampa Bay,17,2009
+300103029,23,10,Carolina,New Orleans,17,2009
+300103034,34,27,Houston,New England,17,2009
+300103006,24,0,Dallas,Philadelphia,17,2009
+300103007,44,24,Kansas City,Denver,17,2009
+300103013,21,13,Baltimore,Oakland,17,2009
+300103022,33,7,Green Bay,Arizona,17,2009
+300103024,23,20,San Diego,Washington,17,2009
+300103026,17,13,Tennessee,Seattle,17,2009
+300103020,37,0,NY Jets,Cincinnati,17,2009
+290920001,28,20,Atlanta,Carolina,2,2009
+290920008,27,13,Minnesota,Detroit,2,2009
+290920009,31,24,Cincinnati,Green Bay,2,2009
+290920010,34,31,Houston,Tennessee,2,2009
+290920012,13,10,Oakland,Kansas City,2,2009
+290920020,16,9,NY Jets,New England,2,2009
+290920021,48,22,New Orleans,Philadelphia,2,2009
+290920028,9,7,Washington,St. Louis,2,2009
+290920030,31,17,Arizona,Jacksonville,2,2009
+290920002,33,20,Buffalo,Tampa Bay,2,2009
+290920025,23,10,San Francisco,Seattle,2,2009
+290920003,17,14,Chicago,Pittsburgh,2,2009
+290920007,27,6,Denver,Cleveland,2,2009
+290920024,31,26,Baltimore,San Diego,2,2009
+290920006,33,31,NY Giants,Dallas,2,2009
+290921015,27,23,Indianapolis,Miami,2,2009
+290927008,19,14,Detroit,Washington,3,2009
+290927014,36,17,Green Bay,St. Louis,3,2009
+290927016,27,24,Minnesota,San Francisco,3,2009
+290927017,26,10,New England,Atlanta,3,2009
+290927020,24,17,NY Jets,Tennessee,3,2009
+290927021,34,14,Philadelphia,Kansas City,3,2009
+290927027,24,0,NY Giants,Tampa Bay,3,2009
+290927033,34,3,Baltimore,Cleveland,3,2009
+290927034,31,24,Jacksonville,Houston,3,2009
+290927002,27,7,New Orleans,Buffalo,3,2009
+290927026,25,19,Chicago,Seattle,3,2009
+290927004,23,20,Cincinnati,Pittsburgh,3,2009
+290927013,23,3,Denver,Oakland,3,2009
+290927024,23,13,San Diego,Miami,3,2009
+290927022,31,10,Indianapolis,Arizona,3,2009
+290928006,21,7,Dallas,Carolina,3,2009
+291004003,48,24,Chicago,Detroit,4,2009
+291004005,23,20,Cincinnati,Cleveland,4,2009
+291004011,34,17,Indianapolis,Seattle,4,2009
+291004012,27,16,NY Giants,Kansas City,4,2009
+291004017,27,21,New England,Baltimore,4,2009
+291004028,16,13,Washington,Tampa Bay,4,2009
+291004030,37,17,Jacksonville,Tennessee,4,2009
+291004034,29,6,Houston,Oakland,4,2009
+291004015,38,10,Miami,Buffalo,4,2009
+291004018,24,10,New Orleans,NY Jets,4,2009
+291004007,17,10,Denver,Dallas,4,2009
+291004025,35,0,San Francisco,St. Louis,4,2009
+291004023,38,28,Pittsburgh,San Diego,4,2009
+291005016,30,23,Minnesota,Green Bay,4,2009
+291011002,6,3,Cleveland,Buffalo,5,2009
+291011008,28,20,Pittsburgh,Detroit,5,2009
+291011012,26,20,Dallas,Kansas City,5,2009
+291011014,38,10,Minnesota,St. Louis,5,2009
+291011019,44,7,NY Giants,Oakland,5,2009
+291011021,33,14,Philadelphia,Tampa Bay,5,2009
+291011029,20,17,Carolina,Washington,5,2009
+291011033,17,14,Cincinnati,Baltimore,5,2009
+291011025,45,10,Atlanta,San Francisco,5,2009
+291011007,20,17,Denver,New England,5,2009
+291011022,28,21,Arizona,Houston,5,2009
+291011026,41,0,Seattle,Jacksonville,5,2009
+291011010,31,9,Indianapolis,Tennessee,5,2009
+291012015,31,27,Miami,NY Jets,5,2009
+291018004,28,17,Houston,Cincinnati,6,2009
+291018009,26,0,Green Bay,Detroit,6,2009
+291018016,33,31,Minnesota,Baltimore,6,2009
+291018018,48,27,New Orleans,NY Giants,6,2009
+291018023,27,14,Pittsburgh,Cleveland,6,2009
+291018027,28,21,Carolina,Tampa Bay,6,2009
+291018028,14,6,Kansas City,Washington,6,2009
+291018030,23,20,Jacksonville,St. Louis,6,2009
+291018013,13,9,Oakland,Philadelphia,6,2009
+291018026,27,3,Arizona,Seattle,6,2009
+291018017,59,0,New England,Tennessee,6,2009
+291018020,16,13,Buffalo,NY Jets,6,2009
+291018001,21,14,Atlanta,Chicago,6,2009
+291019024,34,23,Denver,San Diego,6,2009
+291025005,31,3,Green Bay,Cleveland,7,2009
+291025012,37,7,San Diego,Kansas City,7,2009
+291025014,42,6,Indianapolis,St. Louis,7,2009
+291025023,27,17,Pittsburgh,Minnesota,7,2009
+291025027,35,7,New England,Tampa Bay,7,2009
+291025034,24,21,Houston,San Francisco,7,2009
+291025013,38,0,NY Jets,Oakland,7,2009
+291025029,20,9,Buffalo,Carolina,7,2009
+291025004,45,10,Cincinnati,Chicago,7,2009
+291025006,37,21,Dallas,Atlanta,7,2009
+291025015,46,34,New Orleans,Miami,7,2009
+291025019,24,17,Arizona,NY Giants,7,2009
+291026028,27,17,Philadelphia,Washington,7,2009
+291101002,31,10,Houston,Buffalo,8,2009
+291101003,30,6,Chicago,Cleveland,8,2009
+291101006,38,17,Dallas,Seattle,8,2009
+291101008,17,10,St. Louis,Detroit,8,2009
+291101011,18,14,Indianapolis,San Francisco,8,2009
+291101020,30,25,Miami,NY Jets,8,2009
+291101021,40,17,Philadelphia,NY Giants,8,2009
+291101033,30,7,Baltimore,Denver,8,2009
+291101010,30,13,Tennessee,Jacksonville,8,2009
+291101024,24,16,San Diego,Oakland,8,2009
+291101009,38,26,Minnesota,Green Bay,8,2009
+291101022,34,21,Carolina,Arizona,8,2009
+291102018,35,27,New Orleans,Atlanta,8,2009
+291108001,31,17,Atlanta,Washington,9,2009
+291108003,41,21,Arizona,Chicago,9,2009
+291108004,17,7,Cincinnati,Baltimore,9,2009
+291108011,20,17,Indianapolis,Houston,9,2009
+291108017,27,17,New England,Miami,9,2009
+291108027,38,28,Tampa Bay,Green Bay,9,2009
+291108030,24,21,Jacksonville,Kansas City,9,2009
+291108018,30,20,New Orleans,Carolina,9,2009
+291108026,32,20,Seattle,Detroit,9,2009
+291108019,21,20,San Diego,NY Giants,9,2009
+291108025,34,27,Tennessee,San Francisco,9,2009
+291108021,20,16,Dallas,Philadelphia,9,2009
+291109007,28,10,Pittsburgh,Denver,9,2009
+300909018,14,9,New Orleans,Minnesota,1,2010
+300912002,15,10,Miami,Buffalo,1,2010
+300912003,19,14,Chicago,Detroit,1,2010
+300912010,38,13,Tennessee,Oakland,1,2010
+300912017,38,24,New England,Cincinnati,1,2010
+300912019,31,18,NY Giants,Carolina,1,2010
+300912023,15,9,Pittsburgh,Atlanta,1,2010
+300912027,17,14,Tampa Bay,Cleveland,1,2010
+300912030,24,17,Jacksonville,Denver,1,2010
+300912034,34,24,Houston,Indianapolis,1,2010
+300912014,17,13,Arizona,St. Louis,1,2010
+300912021,27,20,Green Bay,Philadelphia,1,2010
+300912026,31,6,Seattle,San Francisco,1,2010
+300912028,13,7,Washington,Dallas,1,2010
+300913020,10,9,Baltimore,NY Jets,1,2010
+300913012,21,14,Kansas City,San Diego,1,2010
+301111001,26,21,Atlanta,Baltimore,10,2010
+301114002,14,12,Buffalo,Detroit,10,2010
+301114003,27,13,Chicago,Minnesota,10,2010
+301114005,26,20,NY Jets,Cleveland,10,2010
+301114011,23,17,Indianapolis,Cincinnati,10,2010
+301114015,29,17,Miami,Tennessee,10,2010
+301114027,31,16,Tampa Bay,Carolina,10,2010
+301114030,31,24,Jacksonville,Houston,10,2010
+301114007,49,29,Denver,Kansas City,10,2010
+301114019,33,20,Dallas,NY Giants,10,2010
+301114022,36,18,Seattle,Arizona,10,2010
+301114025,23,20,San Francisco,St. Louis,10,2010
+301114023,39,26,New England,Pittsburgh,10,2010
+301115028,59,28,Philadelphia,Washington,10,2010
+301118015,16,0,Chicago,Miami,11,2010
+301121004,49,31,Buffalo,Cincinnati,11,2010
+301121006,35,19,Dallas,Detroit,11,2010
+301121010,19,16,Washington,Tennessee,11,2010
+301121012,31,13,Kansas City,Arizona,11,2010
+301121016,31,3,Green Bay,Minnesota,11,2010
+301121020,30,27,NY Jets,Houston,11,2010
+301121023,35,3,Pittsburgh,Oakland,11,2010
+301121029,37,13,Baltimore,Carolina,11,2010
+301121030,24,20,Jacksonville,Cleveland,11,2010
+301121014,34,17,Atlanta,St. Louis,11,2010
+301121018,34,19,New Orleans,Seattle,11,2010
+301121025,21,0,Tampa Bay,San Francisco,11,2010
+301121017,31,28,New England,Indianapolis,11,2010
+301121021,27,17,Philadelphia,NY Giants,11,2010
+301122024,35,14,San Diego,Denver,11,2010
+301125008,45,24,New England,Detroit,12,2010
+301125006,30,27,New Orleans,Dallas,12,2010
+301125020,26,10,NY Jets,Cincinnati,12,2010
+301128001,20,17,Atlanta,Green Bay,12,2010
+301128002,19,16,Pittsburgh,Buffalo,12,2010
+301128005,24,23,Cleveland,Carolina,12,2010
+301128019,24,20,NY Giants,Jacksonville,12,2010
+301128028,17,13,Minnesota,Washington,12,2010
+301128034,20,0,Houston,Tennessee,12,2010
+301128013,33,17,Miami,Oakland,12,2010
+301128026,42,24,Kansas City,Seattle,12,2010
+301128003,31,26,Chicago,Philadelphia,12,2010
+301128007,36,33,St. Louis,Denver,12,2010
+301128033,17,10,Baltimore,Tampa Bay,12,2010
+301128011,36,14,San Diego,Indianapolis,12,2010
+301129022,27,6,San Francisco,Arizona,12,2010
+301202021,34,24,Philadelphia,Houston,13,2010
+301205004,34,30,New Orleans,Cincinnati,13,2010
+301205008,24,20,Chicago,Detroit,13,2010
+301205009,34,16,Green Bay,San Francisco,13,2010
+301205010,17,6,Jacksonville,Tennessee,13,2010
+301205012,10,6,Kansas City,Denver,13,2010
+301205015,13,10,Cleveland,Miami,13,2010
+301205016,38,14,Minnesota,Buffalo,13,2010
+301205019,31,7,NY Giants,Washington,13,2010
+301205024,28,13,Oakland,San Diego,13,2010
+301205011,38,35,Dallas,Indianapolis,13,2010
+301205022,19,6,St. Louis,Arizona,13,2010
+301205026,31,14,Seattle,Carolina,13,2010
+301205027,28,24,Atlanta,Tampa Bay,13,2010
+301205033,13,10,Pittsburgh,Baltimore,13,2010
+301206017,45,3,New England,NY Jets,13,2010
+301209010,30,28,Indianapolis,Tennessee,14,2010
+301212002,13,6,Buffalo,Cleveland,14,2010
+301212008,7,3,Detroit,Green Bay,14,2010
+301212023,23,7,Pittsburgh,Cincinnati,14,2010
+301212028,17,16,Tampa Bay,Washington,14,2010
+301212029,31,10,Atlanta,Carolina,14,2010
+301212030,38,31,Jacksonville,Oakland,14,2010
+301212018,31,13,New Orleans,St. Louis,14,2010
+301212025,40,21,San Francisco,Seattle,14,2010
+301212003,36,7,New England,Chicago,14,2010
+301212020,10,6,Miami,NY Jets,14,2010
+301212022,43,13,Arizona,Denver,14,2010
+301212024,31,0,San Diego,Kansas City,14,2010
+301212006,30,27,Philadelphia,Dallas,14,2010
+301213016,21,3,NY Giants,Minnesota,14,2010
+301213034,34,28,Baltimore,Houston,14,2010
+301216024,34,7,San Diego,San Francisco,15,2010
+301219004,19,17,Cincinnati,Cleveland,15,2010
+301219006,33,30,Dallas,Washington,15,2010
+301219010,31,17,Tennessee,Houston,15,2010
+301219011,34,24,Indianapolis,Jacksonville,15,2010
+301219014,27,13,Kansas City,St. Louis,15,2010
+301219015,17,14,Buffalo,Miami,15,2010
+301219019,38,31,Philadelphia,NY Giants,15,2010
+301219027,23,20,Detroit,Tampa Bay,15,2010
+301219029,19,12,Carolina,Arizona,15,2010
+301219033,30,24,Baltimore,New Orleans,15,2010
+301219026,34,18,Atlanta,Seattle,15,2010
+301219013,39,23,Oakland,Denver,15,2010
+301219023,22,17,NY Jets,Pittsburgh,15,2010
+301219017,31,27,New England,Green Bay,15,2010
+301220016,40,14,Chicago,Minnesota,15,2010
+301223023,27,3,Pittsburgh,Carolina,16,2010
+301225022,27,26,Arizona,Dallas,16,2010
+301226002,34,3,New England,Buffalo,16,2010
+301226003,38,34,Chicago,NY Jets,16,2010
+301226005,20,10,Baltimore,Cleveland,16,2010
+301226012,34,14,Kansas City,Tennessee,16,2010
+301226014,25,17,St. Louis,San Francisco,16,2010
+301226015,34,27,Detroit,Miami,16,2010
+301226030,20,17,Washington,Jacksonville,16,2010
+301226004,34,20,Cincinnati,San Diego,16,2010
+301226007,24,23,Denver,Houston,16,2010
+301226013,31,26,Indianapolis,Oakland,16,2010
+301226009,45,17,Green Bay,NY Giants,16,2010
+301226027,38,15,Tampa Bay,Seattle,16,2010
+301227001,17,14,New Orleans,Atlanta,16,2010
+301228021,24,14,Minnesota,Philadelphia,16,2010
+310102001,31,10,Atlanta,Carolina,17,2010
+310102005,41,9,Pittsburgh,Cleveland,17,2010
+310102008,20,13,Detroit,Minnesota,17,2010
+310102012,31,10,Oakland,Kansas City,17,2010
+310102017,38,7,New England,Miami,17,2010
+310102018,23,13,Tampa Bay,New Orleans,17,2010
+310102020,38,7,NY Jets,Buffalo,17,2010
+310102033,13,7,Baltimore,Cincinnati,17,2010
+310102007,33,28,San Diego,Denver,17,2010
+310102009,10,3,Green Bay,Chicago,17,2010
+310102011,23,20,Indianapolis,Tennessee,17,2010
+310102021,14,13,Dallas,Philadelphia,17,2010
+310102025,38,7,San Francisco,Arizona,17,2010
+310102028,17,14,NY Giants,Washington,17,2010
+310102034,34,17,Houston,Jacksonville,17,2010
+310102026,16,6,Seattle,St. Louis,17,2010
+300919001,41,7,Atlanta,Arizona,2,2010
+300919004,15,10,Cincinnati,Baltimore,2,2010
+300919005,16,14,Kansas City,Cleveland,2,2010
+300919006,27,20,Chicago,Dallas,2,2010
+300919008,35,32,Philadelphia,Detroit,2,2010
+300919009,34,7,Green Bay,Buffalo,2,2010
+300919010,19,11,Pittsburgh,Tennessee,2,2010
+300919016,14,10,Miami,Minnesota,2,2010
+300919029,20,7,Tampa Bay,Carolina,2,2010
+300919007,31,14,Denver,Seattle,2,2010
+300919013,16,14,Oakland,St. Louis,2,2010
+300919020,28,14,NY Jets,New England,2,2010
+300919024,38,13,San Diego,Jacksonville,2,2010
+300919028,30,27,Houston,Washington,2,2010
+300919011,38,14,Indianapolis,NY Giants,2,2010
+300920025,25,22,New Orleans,San Francisco,2,2010
+300926012,31,10,Kansas City,San Francisco,3,2010
+300926016,24,10,Minnesota,Detroit,3,2010
+300926017,38,30,New England,Buffalo,3,2010
+300926018,27,24,Atlanta,New Orleans,3,2010
+300926019,29,10,Tennessee,NY Giants,3,2010
+300926027,38,13,Pittsburgh,Tampa Bay,3,2010
+300926029,20,7,Cincinnati,Carolina,3,2010
+300926033,24,17,Baltimore,Cleveland,3,2010
+300926034,27,13,Dallas,Houston,3,2010
+300926014,30,16,St. Louis,Washington,3,2010
+300926030,28,3,Philadelphia,Jacksonville,3,2010
+300926007,27,13,Indianapolis,Denver,3,2010
+300926022,24,23,Arizona,Oakland,3,2010
+300926026,27,20,Seattle,San Diego,3,2010
+300926015,31,23,NY Jets,Miami,3,2010
+300927003,20,17,Chicago,Green Bay,3,2010
+301003001,16,14,Atlanta,San Francisco,4,2010
+301003002,38,14,NY Jets,Buffalo,4,2010
+301003005,23,20,Cleveland,Cincinnati,4,2010
+301003009,28,26,Green Bay,Detroit,4,2010
+301003010,26,20,Denver,Tennessee,4,2010
+301003014,20,3,St. Louis,Seattle,4,2010
+301003018,16,14,New Orleans,Carolina,4,2010
+301003023,17,14,Baltimore,Pittsburgh,4,2010
+301003013,31,24,Houston,Oakland,4,2010
+301003030,31,28,Jacksonville,Indianapolis,4,2010
+301003021,17,12,Washington,Philadelphia,4,2010
+301003024,41,10,San Diego,Arizona,4,2010
+301003019,17,3,NY Giants,Chicago,4,2010
+301004015,41,14,New England,Miami,4,2010
+301010002,36,26,Jacksonville,Buffalo,5,2010
+301010004,24,21,Tampa Bay,Cincinnati,5,2010
+301010005,20,10,Atlanta,Cleveland,5,2010
+301010008,44,6,Detroit,St. Louis,5,2010
+301010011,19,9,Indianapolis,Kansas City,5,2010
+301010028,16,13,Washington,Green Bay,5,2010
+301010029,23,6,Chicago,Carolina,5,2010
+301010033,31,17,Baltimore,Denver,5,2010
+301010034,34,10,NY Giants,Houston,5,2010
+301010022,30,20,Arizona,New Orleans,5,2010
+301010006,34,27,Tennessee,Dallas,5,2010
+301010013,35,27,Oakland,San Diego,5,2010
+301010025,27,24,Philadelphia,San Francisco,5,2010
+301011020,29,20,NY Jets,Minnesota,5,2010
+301017003,23,20,Seattle,Chicago,6,2010
+301017009,23,20,Miami,Green Bay,6,2010
+301017014,20,17,St. Louis,San Diego,6,2010
+301017017,23,20,New England,Baltimore,6,2010
+301017019,28,20,NY Giants,Detroit,6,2010
+301017021,31,17,Philadelphia,Atlanta,6,2010
+301017023,28,10,Pittsburgh,Cleveland,6,2010
+301017027,31,6,New Orleans,Tampa Bay,6,2010
+301017034,35,31,Houston,Kansas City,6,2010
+301017007,24,20,NY Jets,Denver,6,2010
+301017025,17,9,San Francisco,Oakland,6,2010
+301017016,24,21,Minnesota,Dallas,6,2010
+301017028,27,24,Indianapolis,Washington,6,2010
+301018030,30,3,Tennessee,Jacksonville,6,2010
+301024001,39,32,Atlanta,Cincinnati,7,2010
+301024003,17,14,Washington,Chicago,7,2010
+301024010,37,19,Tennessee,Philadelphia,7,2010
+301024012,42,20,Kansas City,Jacksonville,7,2010
+301024015,23,22,Pittsburgh,Miami,7,2010
+301024018,30,17,Cleveland,New Orleans,7,2010
+301024027,18,17,Tampa Bay,St. Louis,7,2010
+301024029,23,20,Carolina,San Francisco,7,2010
+301024033,37,34,Baltimore,Buffalo,7,2010
+301024026,22,10,Seattle,Arizona,7,2010
+301024007,59,14,Oakland,Denver,7,2010
+301024024,23,20,New England,San Diego,7,2010
+301024009,28,24,Green Bay,Minnesota,7,2010
+301025006,41,35,NY Giants,Dallas,7,2010
+301031004,22,14,Miami,Cincinnati,8,2010
+301031006,35,17,Jacksonville,Dallas,8,2010
+301031008,37,25,Detroit,Washington,8,2010
+301031012,13,10,Kansas City,Buffalo,8,2010
+301031014,20,10,St. Louis,Carolina,8,2010
+301031020,9,0,Green Bay,NY Jets,8,2010
+301031025,24,16,San Francisco,Denver,8,2010
+301031024,33,25,San Diego,Tennessee,8,2010
+301031013,33,3,Oakland,Seattle,8,2010
+301031017,28,18,New England,Minnesota,8,2010
+301031022,38,35,Tampa Bay,Arizona,8,2010
+301031018,20,10,New Orleans,Pittsburgh,8,2010
+301101011,30,17,Indianapolis,Houston,8,2010
+301107001,27,21,Atlanta,Tampa Bay,9,2010
+301107002,22,19,Chicago,Buffalo,9,2010
+301107005,34,14,Cleveland,New England,9,2010
+301107008,23,20,NY Jets,Detroit,9,2010
+301107016,27,24,Minnesota,Arizona,9,2010
+301107029,34,3,New Orleans,Carolina,9,2010
+301107033,26,10,Baltimore,Miami,9,2010
+301107034,29,23,San Diego,Houston,9,2010
+301107026,41,7,NY Giants,Seattle,9,2010
+301107013,23,20,Oakland,Kansas City,9,2010
+301107021,26,24,Philadelphia,Indianapolis,9,2010
+301107009,45,7,Green Bay,Dallas,9,2010
+301108004,27,21,Pittsburgh,Cincinnati,9,2010
+310908009,42,34,Green Bay,New Orleans,1,2011
+310911003,30,12,Chicago,Atlanta,1,2011
+310911005,27,17,Cincinnati,Cleveland,1,2011
+310911012,41,7,Buffalo,Kansas City,1,2011
+310911014,31,13,Philadelphia,St. Louis,1,2011
+310911027,27,20,Detroit,Tampa Bay,1,2011
+310911030,16,14,Jacksonville,Tennessee,1,2011
+310911033,35,7,Baltimore,Pittsburgh,1,2011
+310911034,34,7,Houston,Indianapolis,1,2011
+310911022,28,21,Arizona,Carolina,1,2011
+310911024,24,17,San Diego,Minnesota,1,2011
+310911025,33,17,San Francisco,Seattle,1,2011
+310911028,28,14,Washington,NY Giants,1,2011
+310911020,27,24,NY Jets,Dallas,1,2011
+310912015,38,24,New England,Miami,1,2011
+310912007,23,20,Oakland,Denver,1,2011
+311110024,24,17,Oakland,San Diego,10,2011
+311113001,26,23,New Orleans,Atlanta,10,2011
+311113004,24,17,Pittsburgh,Cincinnati,10,2011
+311113005,13,12,St. Louis,Cleveland,10,2011
+311113006,44,7,Dallas,Buffalo,10,2011
+311113011,17,3,Jacksonville,Indianapolis,10,2011
+311113012,17,10,Denver,Kansas City,10,2011
+311113015,20,9,Miami,Washington,10,2011
+311113021,21,17,Arizona,Philadelphia,10,2011
+311113027,37,9,Houston,Tampa Bay,10,2011
+311113029,30,3,Tennessee,Carolina,10,2011
+311113026,22,17,Seattle,Baltimore,10,2011
+311113003,37,13,Chicago,Detroit,10,2011
+311113025,27,20,San Francisco,NY Giants,10,2011
+311113020,37,16,New England,NY Jets,10,2011
+311114009,45,7,Green Bay,Minnesota,10,2011
+311117007,17,13,Denver,NY Jets,11,2011
+311120005,14,10,Cleveland,Jacksonville,11,2011
+311120008,49,35,Detroit,Carolina,11,2011
+311120009,35,26,Green Bay,Tampa Bay,11,2011
+311120015,35,8,Miami,Buffalo,11,2011
+311120016,27,21,Oakland,Minnesota,11,2011
+311120028,27,24,Dallas,Washington,11,2011
+311120033,31,24,Baltimore,Cincinnati,11,2011
+311120014,24,7,Seattle,St. Louis,11,2011
+311120025,23,7,San Francisco,Arizona,11,2011
+311120001,23,17,Atlanta,Tennessee,11,2011
+311120003,31,20,Chicago,San Diego,11,2011
+311120019,17,10,Philadelphia,NY Giants,11,2011
+311121017,34,3,New England,Kansas City,11,2011
+311124008,27,15,Green Bay,Detroit,12,2011
+311124006,20,19,Dallas,Miami,12,2011
+311124033,16,6,Baltimore,San Francisco,12,2011
+311127001,24,14,Atlanta,Minnesota,12,2011
+311127004,23,20,Cincinnati,Cleveland,12,2011
+311127010,23,17,Tennessee,Tampa Bay,12,2011
+311127011,27,19,Carolina,Indianapolis,12,2011
+311127014,23,20,Arizona,St. Louis,12,2011
+311127020,28,24,NY Jets,Buffalo,12,2011
+311127030,20,13,Houston,Jacksonville,12,2011
+311127013,25,20,Oakland,Chicago,12,2011
+311127026,23,17,Washington,Seattle,12,2011
+311127021,38,20,New England,Philadelphia,12,2011
+311127024,16,13,Denver,San Diego,12,2011
+311127012,13,9,Pittsburgh,Kansas City,12,2011
+311128018,49,24,New Orleans,NY Giants,12,2011
+311201026,31,14,Seattle,Philadelphia,13,2011
+311204002,23,17,Tennessee,Buffalo,13,2011
+311204003,10,3,Kansas City,Chicago,13,2011
+311204015,34,14,Miami,Oakland,13,2011
+311204016,35,32,Denver,Minnesota,13,2011
+311204017,31,24,New England,Indianapolis,13,2011
+311204023,35,7,Pittsburgh,Cincinnati,13,2011
+311204027,38,19,Carolina,Tampa Bay,13,2011
+311204028,34,19,NY Jets,Washington,13,2011
+311204034,17,10,Houston,Atlanta,13,2011
+311204005,24,10,Baltimore,Cleveland,13,2011
+311204019,38,35,Green Bay,NY Giants,13,2011
+311204022,19,13,Arizona,Dallas,13,2011
+311204025,26,0,San Francisco,St. Louis,13,2011
+311204018,31,17,New Orleans,Detroit,13,2011
+311205030,38,14,San Diego,Jacksonville,13,2011
+311208023,14,3,Pittsburgh,Cleveland,14,2011
+311211004,20,19,Houston,Cincinnati,14,2011
+311211008,34,28,Detroit,Minnesota,14,2011
+311211010,22,17,New Orleans,Tennessee,14,2011
+311211015,26,10,Philadelphia,Miami,14,2011
+311211020,37,10,NY Jets,Kansas City,14,2011
+311211028,34,27,New England,Washington,14,2011
+311211029,31,23,Atlanta,Carolina,14,2011
+311211030,41,14,Jacksonville,Tampa Bay,14,2011
+311211033,24,10,Baltimore,Indianapolis,14,2011
+311211007,13,10,Denver,Chicago,14,2011
+311211022,21,19,Arizona,San Francisco,14,2011
+311211009,46,16,Green Bay,Oakland,14,2011
+311211024,37,10,San Diego,Buffalo,14,2011
+311211006,37,34,NY Giants,Dallas,14,2011
+311212026,30,13,Seattle,St. Louis,14,2011
+311215001,41,14,Atlanta,Jacksonville,15,2011
+311217027,31,15,Dallas,Tampa Bay,15,2011
+311218002,30,23,Miami,Buffalo,15,2011
+311218003,38,14,Seattle,Chicago,15,2011
+311218011,27,13,Indianapolis,Tennessee,15,2011
+311218012,19,14,Kansas City,Green Bay,15,2011
+311218014,20,13,Cincinnati,St. Louis,15,2011
+311218016,42,20,New Orleans,Minnesota,15,2011
+311218019,23,10,Washington,NY Giants,15,2011
+311218034,28,13,Carolina,Houston,15,2011
+311218013,28,27,Detroit,Oakland,15,2011
+311218007,41,23,New England,Denver,15,2011
+311218021,45,19,Philadelphia,NY Jets,15,2011
+311218022,20,17,Arizona,Cleveland,15,2011
+311218024,34,14,San Diego,Baltimore,15,2011
+311219025,20,3,San Francisco,Pittsburgh,15,2011
+311222011,19,16,Indianapolis,Houston,16,2011
+311224002,40,14,Buffalo,Denver,16,2011
+311224004,23,16,Cincinnati,Arizona,16,2011
+311224010,23,17,Tennessee,Jacksonville,16,2011
+311224012,16,13,Oakland,Kansas City,16,2011
+311224017,27,24,New England,Miami,16,2011
+311224020,29,14,NY Giants,NY Jets,16,2011
+311224023,27,0,Pittsburgh,St. Louis,16,2011
+311224028,33,26,Minnesota,Washington,16,2011
+311224029,48,16,Carolina,Tampa Bay,16,2011
+311224033,20,14,Baltimore,Cleveland,16,2011
+311224008,38,10,Detroit,San Diego,16,2011
+311224006,20,7,Philadelphia,Dallas,16,2011
+311224026,19,17,San Francisco,Seattle,16,2011
+311225009,35,21,Green Bay,Chicago,16,2011
+311226018,45,16,New Orleans,Atlanta,16,2011
+320101009,45,41,Green Bay,Detroit,17,2011
+320101014,34,27,San Francisco,St. Louis,17,2011
+320101015,19,17,Miami,NY Jets,17,2011
+320101016,17,13,Chicago,Minnesota,17,2011
+320101017,49,21,New England,Buffalo,17,2011
+320101018,45,17,New Orleans,Carolina,17,2011
+320101021,34,10,Philadelphia,Washington,17,2011
+320101030,19,13,Jacksonville,Indianapolis,17,2011
+320101034,23,22,Tennessee,Houston,17,2011
+320101001,45,24,Atlanta,Tampa Bay,17,2011
+320101004,24,16,Baltimore,Cincinnati,17,2011
+320101005,13,9,Pittsburgh,Cleveland,17,2011
+320101007,7,3,Kansas City,Denver,17,2011
+320101013,38,26,San Diego,Oakland,17,2011
+320101022,23,20,Arizona,Seattle,17,2011
+320101019,31,14,NY Giants,Dallas,17,2011
+310918002,38,35,Buffalo,Oakland,2,2011
+310918008,48,3,Detroit,Kansas City,2,2011
+310918010,26,13,Tennessee,Baltimore,2,2011
+310918011,27,19,Cleveland,Indianapolis,2,2011
+310918016,24,20,Tampa Bay,Minnesota,2,2011
+310918018,30,13,New Orleans,Chicago,2,2011
+310918020,32,3,NY Jets,Jacksonville,2,2011
+310918023,24,0,Pittsburgh,Seattle,2,2011
+310918028,22,21,Washington,Arizona,2,2011
+310918029,30,23,Green Bay,Carolina,2,2011
+310918025,27,24,Dallas,San Francisco,2,2011
+310918007,24,22,Denver,Cincinnati,2,2011
+310918015,23,13,Houston,Miami,2,2011
+310918017,35,21,New England,San Diego,2,2011
+310918001,35,31,Atlanta,Philadelphia,2,2011
+310919019,28,16,NY Giants,St. Louis,2,2011
+310925002,34,31,Buffalo,New England,3,2011
+310925004,13,8,San Francisco,Cincinnati,3,2011
+310925005,17,16,Cleveland,Miami,3,2011
+310925010,17,14,Tennessee,Denver,3,2011
+310925016,26,23,Detroit,Minnesota,3,2011
+310925018,40,33,New Orleans,Houston,3,2011
+310925021,29,16,NY Giants,Philadelphia,3,2011
+310925029,16,10,Carolina,Jacksonville,3,2011
+310925013,34,24,Oakland,NY Jets,3,2011
+310925014,37,7,Baltimore,St. Louis,3,2011
+310925024,20,17,San Diego,Kansas City,3,2011
+310925003,27,17,Green Bay,Chicago,3,2011
+310925026,13,10,Seattle,Arizona,3,2011
+310925027,16,13,Tampa Bay,Atlanta,3,2011
+310925011,23,20,Pittsburgh,Indianapolis,3,2011
+310926006,18,16,Dallas,Washington,3,2011
+311002003,34,29,Chicago,Carolina,4,2011
+311002004,23,20,Cincinnati,Buffalo,4,2011
+311002005,31,13,Tennessee,Cleveland,4,2011
+311002006,34,30,Detroit,Dallas,4,2011
+311002012,22,17,Kansas City,Minnesota,4,2011
+311002014,17,10,Washington,St. Louis,4,2011
+311002021,24,23,San Francisco,Philadelphia,4,2011
+311002030,23,10,New Orleans,Jacksonville,4,2011
+311002034,17,10,Houston,Pittsburgh,4,2011
+311002022,31,27,NY Giants,Arizona,4,2011
+311002026,30,28,Atlanta,Seattle,4,2011
+311002009,49,23,Green Bay,Denver,4,2011
+311002013,31,19,New England,Oakland,4,2011
+311002024,26,16,San Diego,Miami,4,2011
+311002033,34,17,Baltimore,NY Jets,4,2011
+311003027,24,17,Tampa Bay,Indianapolis,4,2011
+311009002,31,24,Buffalo,Philadelphia,5,2011
+311009011,28,24,Kansas City,Indianapolis,5,2011
+311009016,34,10,Minnesota,Arizona,5,2011
+311009019,36,25,Seattle,NY Giants,5,2011
+311009023,38,17,Pittsburgh,Tennessee,5,2011
+311009029,30,27,New Orleans,Carolina,5,2011
+311009030,30,20,Cincinnati,Jacksonville,5,2011
+311009034,25,20,Oakland,Houston,5,2011
+311009025,48,3,San Francisco,Tampa Bay,5,2011
+311009007,29,24,San Diego,Denver,5,2011
+311009017,30,21,New England,NY Jets,5,2011
+311009001,25,14,Green Bay,Atlanta,5,2011
+311010008,24,13,Detroit,Chicago,5,2011
+311016001,31,17,Atlanta,Carolina,6,2011
+311016004,27,17,Cincinnati,Indianapolis,6,2011
+311016008,25,19,San Francisco,Detroit,6,2011
+311016009,24,3,Green Bay,St. Louis,6,2011
+311016019,27,24,NY Giants,Buffalo,6,2011
+311016023,17,13,Pittsburgh,Jacksonville,6,2011
+311016028,20,13,Philadelphia,Washington,6,2011
+311016013,24,17,Oakland,Cleveland,6,2011
+311016033,29,14,Baltimore,Houston,6,2011
+311016017,20,16,New England,Dallas,6,2011
+311016027,26,20,Tampa Bay,New Orleans,6,2011
+311016003,39,10,Chicago,Minnesota,6,2011
+311017020,24,6,NY Jets,Miami,6,2011
+311023005,6,3,Cleveland,Seattle,7,2011
+311023008,23,16,Atlanta,Detroit,7,2011
+311023010,41,7,Houston,Tennessee,7,2011
+311023015,18,15,Denver,Miami,7,2011
+311023020,27,21,NY Jets,San Diego,7,2011
+311023027,24,18,Chicago,Tampa Bay,7,2011
+311023029,33,20,Carolina,Washington,7,2011
+311023013,28,0,Kansas City,Oakland,7,2011
+311023022,32,20,Pittsburgh,Arizona,7,2011
+311023006,34,7,Dallas,St. Louis,7,2011
+311023016,33,27,Green Bay,Minnesota,7,2011
+311023018,62,7,New Orleans,Indianapolis,7,2011
+311024030,12,7,Jacksonville,Baltimore,7,2011
+311030010,27,10,Tennessee,Indianapolis,8,2011
+311030014,31,21,St. Louis,New Orleans,8,2011
+311030019,20,17,NY Giants,Miami,8,2011
+311030029,24,21,Minnesota,Carolina,8,2011
+311030033,30,27,Baltimore,Arizona,8,2011
+311030034,24,14,Houston,Jacksonville,8,2011
+311030002,23,0,Buffalo,Washington,8,2011
+311030007,45,10,Detroit,Denver,8,2011
+311030023,25,17,Pittsburgh,New England,8,2011
+311030025,20,10,San Francisco,Cleveland,8,2011
+311030026,34,12,Cincinnati,Seattle,8,2011
+311030021,34,7,Philadelphia,Dallas,8,2011
+311031012,23,20,Kansas City,San Diego,8,2011
+311106002,27,11,NY Jets,Buffalo,9,2011
+311106006,23,13,Dallas,Seattle,9,2011
+311106011,31,7,Atlanta,Indianapolis,9,2011
+311106012,31,3,Miami,Kansas City,9,2011
+311106018,27,16,New Orleans,Tampa Bay,9,2011
+311106028,19,11,San Francisco,Washington,9,2011
+311106034,30,12,Houston,Cleveland,9,2011
+311106010,24,17,Cincinnati,Tennessee,9,2011
+311106013,38,24,Denver,Oakland,9,2011
+311106017,24,20,NY Giants,New England,9,2011
+311106022,19,13,Arizona,St. Louis,9,2011
+311106024,45,38,Green Bay,San Diego,9,2011
+311106023,23,20,Baltimore,Pittsburgh,9,2011
+311107021,30,24,Chicago,Philadelphia,9,2011
+320905019,24,17,Dallas,NY Giants,1,2012
+320909003,41,21,Chicago,Indianapolis,1,2012
+320909005,17,16,Philadelphia,Cleveland,1,2012
+320909008,27,23,Detroit,St. Louis,1,2012
+320909010,34,13,New England,Tennessee,1,2012
+320909012,40,24,Atlanta,Kansas City,1,2012
+320909016,26,23,Minnesota,Jacksonville,1,2012
+320909018,40,32,Washington,New Orleans,1,2012
+320909020,48,28,NY Jets,Buffalo,1,2012
+320909034,30,10,Houston,Miami,1,2012
+320909009,30,22,San Francisco,Green Bay,1,2012
+320909022,20,16,Arizona,Seattle,1,2012
+320909027,16,10,Tampa Bay,Carolina,1,2012
+320909007,31,19,Denver,Pittsburgh,1,2012
+320910033,44,13,Baltimore,Cincinnati,1,2012
+320910013,22,14,San Diego,Oakland,1,2012
+321108030,27,10,Indianapolis,Jacksonville,10,2012
+321111004,31,13,Cincinnati,NY Giants,10,2012
+321111015,37,3,Tennessee,Miami,10,2012
+321111016,34,24,Minnesota,Detroit,10,2012
+321111017,37,31,New England,Buffalo,10,2012
+321111018,31,27,New Orleans,Atlanta,10,2012
+321111027,34,24,Tampa Bay,San Diego,10,2012
+321111029,36,14,Denver,Carolina,10,2012
+321111033,55,20,Baltimore,Oakland,10,2012
+321111026,28,7,Seattle,NY Jets,10,2012
+321111021,38,23,Dallas,Philadelphia,10,2012
+321111025,24,24,San Francisco,St. Louis,10,2012
+321111003,13,6,Houston,Chicago,10,2012
+321112023,16,13,Pittsburgh,Kansas City,10,2012
+321115002,19,14,Buffalo,Miami,11,2012
+321118001,23,19,Atlanta,Arizona,11,2012
+321118006,23,20,Dallas,Cleveland,11,2012
+321118008,24,20,Green Bay,Detroit,11,2012
+321118012,28,6,Cincinnati,Kansas City,11,2012
+321118014,27,13,NY Jets,St. Louis,11,2012
+321118028,31,6,Washington,Philadelphia,11,2012
+321118029,27,21,Tampa Bay,Carolina,11,2012
+321118034,43,37,Houston,Jacksonville,11,2012
+321118013,38,17,New Orleans,Oakland,11,2012
+321118007,30,23,Denver,San Diego,11,2012
+321118017,59,24,New England,Indianapolis,11,2012
+321118023,13,10,Baltimore,Pittsburgh,11,2012
+321119025,32,7,San Francisco,Chicago,11,2012
+321122008,34,31,Houston,Detroit,12,2012
+321122006,38,31,Washington,Dallas,12,2012
+321122020,49,19,New England,NY Jets,12,2012
+321125003,28,10,Chicago,Minnesota,12,2012
+321125004,34,10,Cincinnati,Oakland,12,2012
+321125005,20,14,Cleveland,Pittsburgh,12,2012
+321125011,20,13,Indianapolis,Buffalo,12,2012
+321125012,17,9,Denver,Kansas City,12,2012
+321125015,24,21,Miami,Seattle,12,2012
+321125027,24,23,Atlanta,Tampa Bay,12,2012
+321125030,24,19,Jacksonville,Tennessee,12,2012
+321125024,16,13,Baltimore,San Diego,12,2012
+321125018,31,21,San Francisco,New Orleans,12,2012
+321125022,31,17,St. Louis,Arizona,12,2012
+321125019,38,10,NY Giants,Green Bay,12,2012
+321126021,30,22,Carolina,Philadelphia,12,2012
+321129001,23,13,Atlanta,New Orleans,13,2012
+321202002,34,18,Buffalo,Jacksonville,13,2012
+321202003,23,17,Seattle,Chicago,13,2012
+321202008,35,33,Indianapolis,Detroit,13,2012
+321202009,23,14,Green Bay,Minnesota,13,2012
+321202010,24,10,Houston,Tennessee,13,2012
+321202012,27,21,Kansas City,Carolina,13,2012
+321202014,16,13,St. Louis,San Francisco,13,2012
+321202015,23,16,New England,Miami,13,2012
+321202020,7,6,NY Jets,Arizona,13,2012
+321202007,31,23,Denver,Tampa Bay,13,2012
+321202013,20,17,Cleveland,Oakland,13,2012
+321202024,20,13,Cincinnati,San Diego,13,2012
+321202033,23,20,Pittsburgh,Baltimore,13,2012
+321202006,38,33,Dallas,Philadelphia,13,2012
+321203028,17,16,Washington,NY Giants,13,2012
+321206013,26,13,Denver,Oakland,14,2012
+321209002,15,12,St. Louis,Buffalo,14,2012
+321209004,20,19,Dallas,Cincinnati,14,2012
+321209005,30,7,Cleveland,Kansas City,14,2012
+321209011,27,23,Indianapolis,Tennessee,14,2012
+321209016,21,14,Minnesota,Chicago,14,2012
+321209023,34,24,San Diego,Pittsburgh,14,2012
+321209027,23,21,Philadelphia,Tampa Bay,14,2012
+321209028,31,28,Washington,Baltimore,14,2012
+321209029,30,20,Carolina,Atlanta,14,2012
+321209030,17,10,NY Jets,Jacksonville,14,2012
+321209025,27,13,San Francisco,Miami,14,2012
+321209019,52,27,NY Giants,New Orleans,14,2012
+321209026,58,0,Seattle,Arizona,14,2012
+321209009,27,20,Green Bay,Detroit,14,2012
+321210017,42,14,New England,Houston,14,2012
+321213021,34,13,Cincinnati,Philadelphia,15,2012
+321216001,34,0,Atlanta,NY Giants,15,2012
+321216003,21,13,Green Bay,Chicago,15,2012
+321216005,38,21,Washington,Cleveland,15,2012
+321216014,36,22,Minnesota,St. Louis,15,2012
+321216015,24,3,Miami,Jacksonville,15,2012
+321216018,41,0,New Orleans,Tampa Bay,15,2012
+321216033,34,17,Denver,Baltimore,15,2012
+321216034,29,17,Houston,Indianapolis,15,2012
+321216002,50,17,Seattle,Buffalo,15,2012
+321216022,38,10,Arizona,Detroit,15,2012
+321216024,31,7,Carolina,San Diego,15,2012
+321216006,27,24,Dallas,Pittsburgh,15,2012
+321216013,15,0,Oakland,Kansas City,15,2012
+321216017,41,34,San Francisco,New England,15,2012
+321217010,14,10,Tennessee,NY Jets,15,2012
+321222008,31,18,Atlanta,Detroit,16,2012
+321223006,34,31,New Orleans,Dallas,16,2012
+321223009,55,7,Green Bay,Tennessee,16,2012
+321223012,20,13,Indianapolis,Kansas City,16,2012
+321223015,24,10,Miami,Buffalo,16,2012
+321223020,27,17,San Diego,NY Jets,16,2012
+321223021,27,20,Washington,Philadelphia,16,2012
+321223023,13,10,Cincinnati,Pittsburgh,16,2012
+321223027,28,13,St. Louis,Tampa Bay,16,2012
+321223029,17,6,Carolina,Oakland,16,2012
+321223030,23,16,New England,Jacksonville,16,2012
+321223034,23,6,Minnesota,Houston,16,2012
+321223007,34,12,Denver,Cleveland,16,2012
+321223022,28,13,Chicago,Arizona,16,2012
+321223033,33,14,Baltimore,NY Giants,16,2012
+321223026,42,13,Seattle,San Francisco,16,2012
+321230001,22,17,Tampa Bay,Atlanta,17,2012
+321230002,28,9,Buffalo,NY Jets,17,2012
+321230004,23,17,Cincinnati,Baltimore,17,2012
+321230008,26,24,Chicago,Detroit,17,2012
+321230010,38,20,Tennessee,Jacksonville,17,2012
+321230011,28,16,Indianapolis,Houston,17,2012
+321230018,44,38,Carolina,New Orleans,17,2012
+321230019,42,7,NY Giants,Philadelphia,17,2012
+321230023,24,10,Pittsburgh,Cleveland,17,2012
+321230007,38,3,Denver,Kansas City,17,2012
+321230016,37,34,Minnesota,Green Bay,17,2012
+321230017,28,0,New England,Miami,17,2012
+321230024,24,21,San Diego,Oakland,17,2012
+321230025,27,13,San Francisco,Arizona,17,2012
+321230026,20,13,Seattle,St. Louis,17,2012
+321230028,28,18,Washington,Dallas,17,2012
+320913009,23,10,Green Bay,Chicago,2,2012
+320916002,35,17,Buffalo,Kansas City,2,2012
+320916004,34,27,Cincinnati,Cleveland,2,2012
+320916011,23,20,Indianapolis,Minnesota,2,2012
+320916015,35,13,Miami,Oakland,2,2012
+320916017,20,18,Arizona,New England,2,2012
+320916019,41,34,NY Giants,Tampa Bay,2,2012
+320916021,24,23,Philadelphia,Baltimore,2,2012
+320916029,35,27,Carolina,New Orleans,2,2012
+320916030,27,7,Houston,Jacksonville,2,2012
+320916014,31,28,St. Louis,Washington,2,2012
+320916026,27,7,Seattle,Dallas,2,2012
+320916023,27,10,Pittsburgh,NY Jets,2,2012
+320916024,38,10,San Diego,Tennessee,2,2012
+320916025,27,19,San Francisco,Detroit,2,2012
+320917001,27,21,Atlanta,Denver,2,2012
+320920029,36,7,NY Giants,Carolina,3,2012
+320923003,23,6,Chicago,St. Louis,3,2012
+320923005,24,14,Buffalo,Cleveland,3,2012
+320923006,16,10,Dallas,Tampa Bay,3,2012
+320923010,44,41,Tennessee,Detroit,3,2012
+320923011,22,17,Jacksonville,Indianapolis,3,2012
+320923015,23,20,NY Jets,Miami,3,2012
+320923016,24,13,Minnesota,San Francisco,3,2012
+320923018,27,24,Kansas City,New Orleans,3,2012
+320923028,38,31,Cincinnati,Washington,3,2012
+320923022,27,6,Arizona,Philadelphia,3,2012
+320923024,27,3,Atlanta,San Diego,3,2012
+320923007,31,25,Houston,Denver,3,2012
+320923013,34,31,Oakland,Pittsburgh,3,2012
+320923033,31,30,Baltimore,New England,3,2012
+320924026,14,12,Seattle,Green Bay,3,2012
+320927033,23,16,Baltimore,Cleveland,4,2012
+320930001,30,28,Atlanta,Carolina,4,2012
+320930002,52,28,New England,Buffalo,4,2012
+320930008,20,13,Minnesota,Detroit,4,2012
+320930012,37,20,San Diego,Kansas City,4,2012
+320930014,19,13,St. Louis,Seattle,4,2012
+320930020,34,0,San Francisco,NY Jets,4,2012
+320930034,38,14,Houston,Tennessee,4,2012
+320930007,37,6,Denver,Oakland,4,2012
+320930022,24,21,Arizona,Miami,4,2012
+320930030,27,10,Cincinnati,Jacksonville,4,2012
+320930009,28,27,Green Bay,New Orleans,4,2012
+320930027,24,22,Washington,Tampa Bay,4,2012
+320930021,19,17,Philadelphia,NY Giants,4,2012
+321001006,34,18,Chicago,Dallas,4,2012
+321004014,17,3,St. Louis,Arizona,5,2012
+321007004,17,13,Miami,Cincinnati,5,2012
+321007011,30,27,Indianapolis,Green Bay,5,2012
+321007012,9,6,Baltimore,Kansas City,5,2012
+321007019,41,27,NY Giants,Cleveland,5,2012
+321007023,16,14,Pittsburgh,Philadelphia,5,2012
+321007028,24,17,Atlanta,Washington,5,2012
+321007029,16,12,Seattle,Carolina,5,2012
+321007030,41,3,Chicago,Jacksonville,5,2012
+321007016,30,7,Minnesota,Tennessee,5,2012
+321007017,31,21,New England,Denver,5,2012
+321007025,45,3,San Francisco,Buffalo,5,2012
+321007018,31,24,New Orleans,San Diego,5,2012
+321008020,23,17,Houston,NY Jets,5,2012
+321011010,26,23,Tennessee,Pittsburgh,6,2012
+321014001,23,20,Atlanta,Oakland,6,2012
+321014005,34,24,Cleveland,Cincinnati,6,2012
+321014015,17,14,Miami,St. Louis,6,2012
+321014020,35,9,NY Jets,Indianapolis,6,2012
+321014021,26,23,Detroit,Philadelphia,6,2012
+321014027,38,10,Tampa Bay,Kansas City,6,2012
+321014033,31,29,Baltimore,Dallas,6,2012
+321014022,19,16,Buffalo,Arizona,6,2012
+321014026,24,23,Seattle,New England,6,2012
+321014025,26,3,NY Giants,San Francisco,6,2012
+321014028,38,26,Washington,Minnesota,6,2012
+321014034,42,24,Green Bay,Houston,6,2012
+321015024,35,24,Denver,San Diego,6,2012
+321018025,13,6,San Francisco,Seattle,7,2012
+321021002,35,34,Tennessee,Buffalo,7,2012
+321021011,17,13,Indianapolis,Cleveland,7,2012
+321021014,30,20,Green Bay,St. Louis,7,2012
+321021016,21,14,Minnesota,Arizona,7,2012
+321021019,27,23,NY Giants,Washington,7,2012
+321021027,35,28,New Orleans,Tampa Bay,7,2012
+321021029,19,14,Dallas,Carolina,7,2012
+321021034,43,13,Houston,Baltimore,7,2012
+321021013,26,23,Oakland,Jacksonville,7,2012
+321021017,29,26,New England,NY Jets,7,2012
+321021004,24,17,Pittsburgh,Cincinnati,7,2012
+321022003,13,7,Chicago,Detroit,7,2012
+321025016,36,17,Tampa Bay,Minnesota,8,2012
+321028003,23,22,Chicago,Carolina,8,2012
+321028005,7,6,Cleveland,San Diego,8,2012
+321028008,28,24,Detroit,Seattle,8,2012
+321028009,24,15,Green Bay,Jacksonville,8,2012
+321028010,19,13,Indianapolis,Tennessee,8,2012
+321028014,45,7,New England,St. Louis,8,2012
+321028020,30,9,Miami,NY Jets,8,2012
+321028021,30,17,Atlanta,Philadelphia,8,2012
+321028023,27,12,Pittsburgh,Washington,8,2012
+321028012,26,16,Oakland,Kansas City,8,2012
+321028006,29,24,NY Giants,Dallas,8,2012
+321028007,34,14,Denver,New Orleans,8,2012
+321029022,24,3,San Francisco,Arizona,8,2012
+321101024,31,13,San Diego,Kansas City,9,2012
+321104004,31,23,Denver,Cincinnati,9,2012
+321104005,25,15,Baltimore,Cleveland,9,2012
+321104009,31,17,Green Bay,Arizona,9,2012
+321104010,51,20,Chicago,Tennessee,9,2012
+321104011,23,20,Indianapolis,Miami,9,2012
+321104028,21,13,Carolina,Washington,9,2012
+321104030,31,14,Detroit,Jacksonville,9,2012
+321104034,21,9,Houston,Buffalo,9,2012
+321104013,42,32,Tampa Bay,Oakland,9,2012
+321104026,30,20,Seattle,Minnesota,9,2012
+321104019,24,20,Pittsburgh,NY Giants,9,2012
+321104001,19,13,Atlanta,Dallas,9,2012
+321105018,28,13,New Orleans,Philadelphia,9,2012
+330905007,49,27,Denver,Baltimore,1,2013
+330908002,23,21,New England,Buffalo,1,2013
+330908003,24,21,Chicago,Cincinnati,1,2013
+330908005,23,10,Miami,Cleveland,1,2013
+330908008,34,24,Detroit,Minnesota,1,2013
+330908011,21,17,Indianapolis,Oakland,1,2013
+330908018,23,17,New Orleans,Atlanta,1,2013
+330908020,18,17,NY Jets,Tampa Bay,1,2013
+330908023,16,9,Tennessee,Pittsburgh,1,2013
+330908029,12,7,Seattle,Carolina,1,2013
+330908030,28,2,Kansas City,Jacksonville,1,2013
+330908014,27,24,St. Louis,Arizona,1,2013
+330908025,34,28,San Francisco,Green Bay,1,2013
+330908006,36,31,Dallas,NY Giants,1,2013
+330909028,33,27,Philadelphia,Washington,1,2013
+330909024,31,28,Houston,San Diego,1,2013
+331107016,34,27,Minnesota,Washington,10,2013
+331110001,33,10,Seattle,Atlanta,10,2013
+331110003,21,19,Detroit,Chicago,10,2013
+331110009,27,13,Philadelphia,Green Bay,10,2013
+331110010,29,27,Jacksonville,Tennessee,10,2013
+331110011,38,8,St. Louis,Indianapolis,10,2013
+331110019,24,20,NY Giants,Oakland,10,2013
+331110023,23,10,Pittsburgh,Buffalo,10,2013
+331110033,20,17,Baltimore,Cincinnati,10,2013
+331110025,10,9,Carolina,San Francisco,10,2013
+331110022,27,24,Arizona,Houston,10,2013
+331110024,28,20,Denver,San Diego,10,2013
+331110018,49,17,New Orleans,Dallas,10,2013
+331111027,22,19,Tampa Bay,Miami,10,2013
+331114010,30,27,Indianapolis,Tennessee,11,2013
+331117002,37,14,Buffalo,NY Jets,11,2013
+331117003,23,20,Chicago,Baltimore,11,2013
+331117004,41,20,Cincinnati,Cleveland,11,2013
+331117021,24,16,Philadelphia,Washington,11,2013
+331117023,37,27,Pittsburgh,Detroit,11,2013
+331117027,41,28,Tampa Bay,Atlanta,11,2013
+331117030,27,14,Arizona,Jacksonville,11,2013
+331117034,28,23,Oakland,Houston,11,2013
+331117015,20,16,Miami,San Diego,11,2013
+331117018,23,20,New Orleans,San Francisco,11,2013
+331117019,27,13,NY Giants,Green Bay,11,2013
+331117026,41,20,Seattle,Minnesota,11,2013
+331117007,27,17,Denver,Kansas City,11,2013
+331118029,24,20,Carolina,New England,11,2013
+331121001,17,13,New Orleans,Atlanta,12,2013
+331124005,27,11,Pittsburgh,Cleveland,12,2013
+331124008,24,21,Tampa Bay,Detroit,12,2013
+331124009,26,26,Green Bay,Minnesota,12,2013
+331124012,41,38,San Diego,Kansas City,12,2013
+331124014,42,21,St. Louis,Chicago,12,2013
+331124015,20,16,Carolina,Miami,12,2013
+331124033,19,3,Baltimore,NY Jets,12,2013
+331124034,13,6,Jacksonville,Houston,12,2013
+331124013,23,19,Tennessee,Oakland,12,2013
+331124022,40,11,Arizona,Indianapolis,12,2013
+331124019,24,21,Dallas,NY Giants,12,2013
+331124017,34,31,New England,Denver,12,2013
+331125028,27,6,San Francisco,Washington,12,2013
+331128008,40,10,Detroit,Green Bay,13,2013
+331128006,31,24,Dallas,Oakland,13,2013
+331128033,22,20,Baltimore,Pittsburgh,13,2013
+331201005,32,28,Jacksonville,Cleveland,13,2013
+331201011,22,14,Indianapolis,Tennessee,13,2013
+331201016,23,20,Minnesota,Chicago,13,2013
+331201020,23,3,Miami,NY Jets,13,2013
+331201021,24,21,Philadelphia,Arizona,13,2013
+331201029,27,6,Carolina,Tampa Bay,13,2013
+331201034,34,31,New England,Houston,13,2013
+331201002,34,31,Atlanta,Buffalo,13,2013
+331201025,23,13,San Francisco,St. Louis,13,2013
+331201012,35,28,Denver,Kansas City,13,2013
+331201024,17,10,Cincinnati,San Diego,13,2013
+331201028,24,17,NY Giants,Washington,13,2013
+331202026,34,7,Seattle,New Orleans,13,2013
+331205030,27,20,Jacksonville,Houston,14,2013
+331208004,42,28,Cincinnati,Indianapolis,14,2013
+331208009,22,21,Green Bay,Atlanta,14,2013
+331208017,27,26,New England,Cleveland,14,2013
+331208020,37,27,NY Jets,Oakland,14,2013
+331208021,34,20,Philadelphia,Detroit,14,2013
+331208023,34,28,Miami,Pittsburgh,14,2013
+331208027,27,6,Tampa Bay,Buffalo,14,2013
+331208028,45,10,Kansas City,Washington,14,2013
+331208033,29,26,Baltimore,Minnesota,14,2013
+331208007,51,28,Denver,Tennessee,14,2013
+331208022,30,10,Arizona,St. Louis,14,2013
+331208024,37,14,San Diego,NY Giants,14,2013
+331208025,19,17,San Francisco,Seattle,14,2013
+331208018,31,13,New Orleans,Carolina,14,2013
+331209003,45,28,Chicago,Dallas,14,2013
+331212007,27,20,San Diego,Denver,15,2013
+331215001,27,26,Atlanta,Washington,15,2013
+331215005,38,31,Chicago,Cleveland,15,2013
+331215011,25,3,Indianapolis,Houston,15,2013
+331215015,24,20,Miami,New England,15,2013
+331215016,48,30,Minnesota,Philadelphia,15,2013
+331215019,23,0,Seattle,NY Giants,15,2013
+331215027,33,14,San Francisco,Tampa Bay,15,2013
+331215030,27,20,Buffalo,Jacksonville,15,2013
+331215013,56,31,Kansas City,Oakland,15,2013
+331215029,30,20,Carolina,NY Jets,15,2013
+331215006,37,36,Green Bay,Dallas,15,2013
+331215010,37,34,Arizona,Tennessee,15,2013
+331215014,27,16,St. Louis,New Orleans,15,2013
+331215023,30,20,Pittsburgh,Cincinnati,15,2013
+331216008,18,16,Baltimore,Detroit,15,2013
+331222002,19,0,Buffalo,Miami,16,2013
+331222004,42,14,Cincinnati,Minnesota,16,2013
+331222012,23,7,Indianapolis,Kansas City,16,2013
+331222014,23,13,St. Louis,Tampa Bay,16,2013
+331222020,24,13,NY Jets,Cleveland,16,2013
+331222028,24,23,Dallas,Washington,16,2013
+331222029,17,13,Carolina,New Orleans,16,2013
+331222030,20,16,Tennessee,Jacksonville,16,2013
+331222034,37,13,Denver,Houston,16,2013
+331222008,23,20,NY Giants,Detroit,16,2013
+331222026,17,10,Arizona,Seattle,16,2013
+331222009,38,31,Pittsburgh,Green Bay,16,2013
+331222024,26,13,San Diego,Oakland,16,2013
+331222033,41,7,New England,Baltimore,16,2013
+331222021,54,11,Philadelphia,Chicago,16,2013
+331223025,34,24,San Francisco,Atlanta,16,2013
+331229001,21,20,Carolina,Atlanta,17,2013
+331229004,34,17,Cincinnati,Baltimore,17,2013
+331229010,16,10,Tennessee,Houston,17,2013
+331229011,30,10,Indianapolis,Jacksonville,17,2013
+331229015,20,7,NY Jets,Miami,17,2013
+331229016,14,13,Minnesota,Detroit,17,2013
+331229019,20,6,NY Giants,Washington,17,2013
+331229023,20,7,Pittsburgh,Cleveland,17,2013
+331229003,33,28,Green Bay,Chicago,17,2013
+331229013,34,14,Denver,Oakland,17,2013
+331229017,34,20,New England,Buffalo,17,2013
+331229018,42,17,New Orleans,Tampa Bay,17,2013
+331229022,23,20,San Francisco,Arizona,17,2013
+331229024,27,24,San Diego,Kansas City,17,2013
+331229026,27,9,Seattle,St. Louis,17,2013
+331229006,24,22,Philadelphia,Dallas,17,2013
+330912017,13,10,New England,NY Jets,2,2013
+330915001,31,24,Atlanta,St. Louis,2,2013
+330915002,24,23,Buffalo,Carolina,2,2013
+330915003,31,30,Chicago,Minnesota,2,2013
+330915009,38,20,Green Bay,Washington,2,2013
+330915011,24,20,Miami,Indianapolis,2,2013
+330915012,17,16,Kansas City,Dallas,2,2013
+330915021,33,30,San Diego,Philadelphia,2,2013
+330915033,14,6,Baltimore,Cleveland,2,2013
+330915034,30,24,Houston,Tennessee,2,2013
+330915022,25,21,Arizona,Detroit,2,2013
+330915027,16,14,New Orleans,Tampa Bay,2,2013
+330915013,19,9,Oakland,Jacksonville,2,2013
+330915019,41,23,Denver,NY Giants,2,2013
+330915026,29,3,Seattle,San Francisco,2,2013
+330916004,20,10,Cincinnati,Pittsburgh,2,2013
+330919021,26,16,Kansas City,Philadelphia,3,2013
+330922004,34,30,Cincinnati,Green Bay,3,2013
+330922006,31,7,Dallas,St. Louis,3,2013
+330922010,20,17,Tennessee,San Diego,3,2013
+330922016,31,27,Cleveland,Minnesota,3,2013
+330922017,23,3,New England,Tampa Bay,3,2013
+330922018,31,7,New Orleans,Arizona,3,2013
+330922028,27,20,Detroit,Washington,3,2013
+330922029,38,0,Carolina,NY Giants,3,2013
+330922033,30,9,Baltimore,Houston,3,2013
+330922015,27,23,Miami,Atlanta,3,2013
+330922020,27,20,NY Jets,Buffalo,3,2013
+330922025,27,7,Indianapolis,San Francisco,3,2013
+330922026,45,17,Seattle,Jacksonville,3,2013
+330922023,40,23,Chicago,Pittsburgh,3,2013
+330923007,37,21,Denver,Oakland,3,2013
+330926014,35,11,San Francisco,St. Louis,4,2013
+330929002,23,20,Buffalo,Baltimore,4,2013
+330929005,17,6,Cleveland,Cincinnati,4,2013
+330929008,40,32,Detroit,Chicago,4,2013
+330929012,31,7,Kansas City,NY Giants,4,2013
+330929016,34,27,Minnesota,Pittsburgh,4,2013
+330929027,13,10,Arizona,Tampa Bay,4,2013
+330929030,37,3,Indianapolis,Jacksonville,4,2013
+330929034,23,20,Seattle,Houston,4,2013
+330929010,38,13,Tennessee,NY Jets,4,2013
+330929007,52,20,Denver,Philadelphia,4,2013
+330929013,24,14,Washington,Oakland,4,2013
+330929024,30,21,San Diego,Dallas,4,2013
+330929001,30,23,New England,Atlanta,4,2013
+330930018,38,17,New Orleans,Miami,4,2013
+331003005,37,24,Cleveland,Buffalo,5,2013
+331006003,26,18,New Orleans,Chicago,5,2013
+331006004,13,6,Cincinnati,New England,5,2013
+331006009,22,9,Green Bay,Detroit,5,2013
+331006010,26,17,Kansas City,Tennessee,5,2013
+331006011,34,28,Indianapolis,Seattle,5,2013
+331006014,34,20,St. Louis,Jacksonville,5,2013
+331006015,26,23,Baltimore,Miami,5,2013
+331006019,36,21,Philadelphia,NY Giants,5,2013
+331006022,22,6,Arizona,Carolina,5,2013
+331006006,51,48,Denver,Dallas,5,2013
+331006025,34,3,San Francisco,Houston,5,2013
+331006013,27,17,Oakland,San Diego,5,2013
+331007001,30,28,NY Jets,Atlanta,5,2013
+331010003,27,21,Chicago,NY Giants,6,2013
+331013002,27,24,Cincinnati,Buffalo,6,2013
+331013005,31,17,Detroit,Cleveland,6,2013
+331013012,24,7,Kansas City,Oakland,6,2013
+331013016,35,10,Carolina,Minnesota,6,2013
+331013020,19,6,Pittsburgh,NY Jets,6,2013
+331013027,31,20,Philadelphia,Tampa Bay,6,2013
+331013033,19,17,Green Bay,Baltimore,6,2013
+331013034,38,13,St. Louis,Houston,6,2013
+331013007,35,19,Denver,Jacksonville,6,2013
+331013026,20,13,Seattle,Tennessee,6,2013
+331013017,30,27,New England,New Orleans,6,2013
+331013025,32,20,San Francisco,Arizona,6,2013
+331013006,31,16,Dallas,Washington,6,2013
+331014024,19,9,San Diego,Indianapolis,6,2013
+331017022,34,22,Seattle,Arizona,7,2013
+331020001,31,23,Atlanta,Tampa Bay,7,2013
+331020008,27,24,Cincinnati,Detroit,7,2013
+331020015,23,21,Buffalo,Miami,7,2013
+331020020,30,27,NY Jets,New England,7,2013
+331020021,17,3,Dallas,Philadelphia,7,2013
+331020028,45,41,Washington,Chicago,7,2013
+331020029,30,15,Carolina,St. Louis,7,2013
+331020030,24,6,San Diego,Jacksonville,7,2013
+331020010,31,17,San Francisco,Tennessee,7,2013
+331020009,31,13,Green Bay,Cleveland,7,2013
+331020012,17,16,Kansas City,Houston,7,2013
+331020023,19,16,Pittsburgh,Baltimore,7,2013
+331020011,39,33,Indianapolis,Denver,7,2013
+331021019,23,7,NY Giants,Minnesota,7,2013
+331024027,31,13,Carolina,Tampa Bay,8,2013
+331027008,31,30,Detroit,Dallas,8,2013
+331027012,23,17,Kansas City,Cleveland,8,2013
+331027017,27,17,New England,Miami,8,2013
+331027018,35,17,New Orleans,Buffalo,8,2013
+331027021,15,7,NY Giants,Philadelphia,8,2013
+331027030,42,10,San Francisco,Jacksonville,8,2013
+331027004,49,9,Cincinnati,NY Jets,8,2013
+331027013,21,18,Oakland,Pittsburgh,8,2013
+331027007,45,21,Denver,Washington,8,2013
+331027022,27,13,Arizona,Atlanta,8,2013
+331027016,44,31,Green Bay,Minnesota,8,2013
+331028014,14,9,Seattle,St. Louis,8,2013
+331031015,22,20,Miami,Cincinnati,9,2013
+331103002,23,13,Kansas City,Buffalo,9,2013
+331103006,27,23,Dallas,Minnesota,9,2013
+331103014,28,21,Tennessee,St. Louis,9,2013
+331103020,26,20,NY Jets,New Orleans,9,2013
+331103028,30,24,Washington,San Diego,9,2013
+331103029,34,10,Carolina,Atlanta,9,2013
+331103013,49,20,Philadelphia,Oakland,9,2013
+331103026,27,24,Seattle,Tampa Bay,9,2013
+331103005,24,18,Cleveland,Baltimore,9,2013
+331103017,55,31,New England,Pittsburgh,9,2013
+331103034,27,24,Indianapolis,Houston,9,2013
+331104009,27,20,Chicago,Green Bay,9,2013
+400554214,36,16,Seattle,Green Bay,1,2014
+400554215,37,34,Atlanta,New Orleans,1,2014
+400554217,34,6,Minnesota,St. Louis,1,2014
+400554221,30,27,Pittsburgh,Cleveland,1,2014
+400554223,34,17,Philadelphia,Jacksonville,1,2014
+400554226,19,14,NY Jets,Oakland,1,2014
+400554229,23,16,Cincinnati,Baltimore,1,2014
+400554232,23,20,Buffalo,Chicago,1,2014
+400554256,17,6,Houston,Washington,1,2014
+400554260,26,10,Tennessee,Kansas City,1,2014
+400554262,33,20,Miami,New England,1,2014
+400554266,20,14,Carolina,Tampa Bay,1,2014
+400554269,28,17,San Francisco,Dallas,1,2014
+400554273,31,24,Denver,Indianapolis,1,2014
+400554296,35,14,Detroit,NY Giants,1,2014
+400554301,18,17,Arizona,San Diego,1,2014
+400554196,26,6,Baltimore,Pittsburgh,2,2014
+400554198,29,10,Buffalo,Miami,2,2014
+400554202,41,10,Washington,Jacksonville,2,2014
+400554206,26,10,Dallas,Tennessee,2,2014
+400554211,25,14,Arizona,NY Giants,2,2014
+400554235,30,7,New England,Minnesota,2,2014
+400554241,26,24,Cleveland,New Orleans,2,2014
+400554245,24,10,Cincinnati,Atlanta,2,2014
+400554249,24,7,Carolina,Detroit,2,2014
+400554274,19,17,St. Louis,Tampa Bay,2,2014
+400554278,30,21,San Diego,Seattle,2,2014
+400554284,30,14,Houston,Oakland,2,2014
+400554287,31,24,Green Bay,NY Jets,2,2014
+400554291,24,17,Denver,Kansas City,2,2014
+400554314,28,20,Chicago,San Francisco,2,2014
+400554318,30,27,Philadelphia,Indianapolis,2,2014
+400554194,56,14,Atlanta,Tampa Bay,3,2014
+400554195,22,10,San Diego,Buffalo,3,2014
+400554199,34,31,Dallas,St. Louis,3,2014
+400554203,37,34,Philadelphia,Washington,3,2014
+400554208,30,17,NY Giants,Houston,3,2014
+400554213,20,9,New Orleans,Minnesota,3,2014
+400554237,33,7,Cincinnati,Tennessee,3,2014
+400554240,23,21,Baltimore,Cleveland,3,2014
+400554244,19,7,Detroit,Green Bay,3,2014
+400554247,44,17,Indianapolis,Jacksonville,3,2014
+400554250,16,9,New England,Oakland,3,2014
+400554253,23,14,Arizona,San Francisco,3,2014
+400554276,26,20,Seattle,Denver,3,2014
+400554280,34,15,Kansas City,Miami,3,2014
+400554283,37,19,Pittsburgh,Carolina,3,2014
+400554288,27,19,Chicago,NY Jets,3,2014
