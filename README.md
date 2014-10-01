@@ -14,13 +14,13 @@ Each drive in an NFL game represents an opportunity for a team to score.  The ha
 
 ## Scraping ESPN's schedule
 
-  $ wget -O schedule.html http://espn.go.com/nfl/schedule/_/year/2013/week/1
-  $ python scripts/get_drives.py schedule.html > theschedule_games.csv
+    $ wget -O schedule.html http://espn.go.com/nfl/schedule/_/year/2013/week/1
+    $ python scripts/get_drives.py schedule.html > theschedule_games.csv
 
 ## Scraping ESPN's drivecharts
 
-  $ wget -O game.html http://espn.go.com/nfl/drivechart?gameId=261105003
-  $ python scripts/get_drives.py game.html > game_drives.csv
+    $ wget -O game.html http://espn.go.com/nfl/drivechart?gameId=261105003
+    $ python scripts/get_drives.py game.html > game_drives.csv
 
 There are fancier ways of automating this scraping process for whole seasons.  You can find those in the `Makefile`.
 
