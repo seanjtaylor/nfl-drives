@@ -1,4 +1,4 @@
-# NFL drive-level anlaysis
+# NFL drive-level analysis
 
 Each drive in an NFL game represents an opportunity for a team to score.  The have a few attributes:
 
