@@ -15,7 +15,9 @@ Each drive in an NFL game represents an opportunity for a team to score.  The ha
 ## Scraping ESPN's schedule
 
     $ wget -O schedule.html http://espn.go.com/nfl/schedule/_/year/2013/week/1
-    $ python scripts/get_drives.py schedule.html > theschedule_games.csv
+    $ python scripts/get_drives.py schedule.html > schedule_games.csv
+
+We use this to get a list of ESPN gameIds for all regular season games 2002-2014.
 
 ## Scraping ESPN's drivecharts
 
