@@ -8,9 +8,11 @@ Each drive in an NFL game represents an opportunity for a team to score.  The ha
 * an outcome:
   * Punt
   * Interception/Fumble lost
+  * Turnover on downs
   * Touchdown
   * Field goal attempt
   * End of Half / Game
+  
 
 ## Scraping ESPN's schedule
 
