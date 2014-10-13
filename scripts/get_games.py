@@ -13,10 +13,13 @@ def main(html):
     
     url = root.xpath("//link[@rel='canonical']")[0].get('href')
     year_week = year_week_re.search(url)
+    week = week_re.search(url)
     if year_week:
         year, week = map(int, year_week.groups())
+    elif week:
+        year, week = 2014, int(week.group(1))
     else:
-        year, week = 2014, int(week_re.search(url).group(1))
+        return
 
     rows = []
     for a in root.xpath("//a[starts-with(@href, '/nfl/boxscore?gameId')]"):
