@@ -1,6 +1,6 @@
 library(arm)
 library(splines)
-source('analysis/load_drives.R')
+source('analysis/estimate_score.R')
 
 drive_secs <- function(time_str) {
 return (as.numeric(as.POSIXct(strptime(time_str, format = "%M:%OS"))) - 
@@ -14,10 +14,10 @@ d <- bayesglm(drive_secs(poss_time) ~ factor(team):factor(year) +
               ns(score.differential, knots=c(-21, -14, -7, 0, 7, 14, 21)) +
               factor(quarter),
               family = gaussian,
-              data = subset(Drives, res != 'End of Half' & res != 'End of Game')
+              data = subset(ScoredDrives, res != 'End of Half' & res != 'End of Game')
               )
 
-newdata <- with(Drives,
+newdata <- with(ScoredDrives,
                 expand.grid(team = unique(team),
                             opponent = unique(opponent),
                             year = 2002:2014,
@@ -66,7 +66,7 @@ p
 drive.time.model<- bayesglm(drive_secs(poss_time) ~
                             factor(year)*ns(start_yard, knots = c(20,40,60,80)),
               family = gaussian,
-              data = subset(Drives, res != 'End of Half' & res != 'End of Game')
+              data = subset(ScoredDrives, res != 'End of Half' & res != 'End of Game')
               )
 
 drive.data <- expand.grid(year=2002:2013, start_yard=1:100)
@@ -89,7 +89,7 @@ drive.time.model<- bayesglm(drive_secs(poss_time) ~
                             factor(year)*ns(score.differential,
                                             knots=c(-21, -14, -7, 0, 7, 14, 21)),
               family = gaussian,
-              data = subset(Drives, res != 'End of Half' & res != 'End of Game')
+              data = subset(ScoredDrives, res != 'End of Half' & res != 'End of Game')
               )
 
 drive.data <- expand.grid(year=2002:2013, score.differential=-30:30)
