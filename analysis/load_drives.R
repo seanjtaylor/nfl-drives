@@ -114,13 +114,8 @@ score.mapping <- list('TD' = 7,
                 'Blocked Punt TD' = -7,
                 'Timeout' = 0
                 )
-Drives <- Drives[with(Drives, order(game_id, quarter, start_time)),] %>%
-  mutate(res = mapvalues(result, names(mapping), unlist(mapping))) %>%
-  mutate(score_change = as.numeric(as.character(
-             mapvalues(result, names(score.mapping), unlist(score.mapping))))) %>%
-  ddply(.(game_id), transform,
-        #Compute score differential? Change one team's score_changes to negative?
-        score.differential = cumsum(score_change * ifelse(team==team[1], 1, -1))*ifelse(team==team[1], 1, -1))
+Drives <- Drives %>%
+  mutate(res = mapvalues(result, names(mapping), unlist(mapping)))
 
 ## results after renaming
 p <- Drives %>%
