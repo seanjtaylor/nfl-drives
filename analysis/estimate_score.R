@@ -50,6 +50,7 @@ ScoredDrives<- Drives %>%
           arrange(game_id, quarter, start_time) %>%
           mutate(score_change = as.numeric(as.character(
              mapvalues(result, names(score.mapping), unlist(score.mapping))))) %>%
+          mutate(score_change = ifelse(is.na(score_change), 0, score_change)) %>%
           ddply(.(game_id), transform,
           #Compute score differential? Change one team's score_changes to negative?
           score.differential = cumsum(score_change * ifelse(team==team[1], 1, -1))*ifelse(team==team[1], 1, -1))
